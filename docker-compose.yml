@@ -1,0 +1,22 @@
+services:
+
+  rag-app:
+
+    build: .
+
+    ports:
+      - "8000:8000"
+
+    volumes:
+      - .:/app
+      - chroma_data:/app/chroma_db
+
+    env_file:
+      - .env
+
+    environment:
+      - CHROMA_DB_DIR=/app/chroma_db
+
+volumes:
+
+  chroma_data:

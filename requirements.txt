@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+chromadb
+sentence-transformers
+google-generativeai
+python-dotenv
+Pillow
+numpy
+
+# Evaluation
+
+ragas
+datasets
+langchain-google-genai
+langchain-huggingface
