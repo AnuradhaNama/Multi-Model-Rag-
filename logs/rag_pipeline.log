@@ -1,0 +1,1374 @@
+2026-05-09 20:25:42,149 | INFO | Running query: give me about kerala
+2026-05-09 20:25:42,403 | INFO | Best similarity distance: 0.6132762432098389
+2026-05-09 20:25:42,433 | INFO | Text distance: 0.6132762432098389 | title: Kerala
+2026-05-09 20:25:42,433 | INFO | Text distance: 0.6712976694107056 | title: Kerala
+2026-05-09 20:25:42,434 | INFO | Text distance: 0.6754471659660339 | title: Kerala
+2026-05-09 20:25:42,434 | INFO | Text distance: 0.6976231336593628 | title: Kerala
+2026-05-09 20:25:42,435 | INFO | Text distance: 0.7049478888511658 | title: Kerala
+2026-05-09 20:26:09,689 | INFO | Running query: images of kerala
+2026-05-09 20:26:09,730 | INFO | Best similarity distance: 0.7283661365509033
+2026-05-09 20:26:09,835 | INFO | Image distance: 0.9270753860473633 | title: Kerala
+2026-05-09 20:26:09,836 | INFO | Image distance: 1.0111346244812012 | title: Kerala
+2026-05-09 20:26:09,836 | INFO | Image distance: 1.1063408851623535 | title: Kerala
+2026-05-09 20:26:09,837 | INFO | Image distance: 1.1192436218261719 | title: Culture of India
+2026-05-09 20:26:09,838 | INFO | Image distance: 1.1560063362121582 | title: Yoga
+2026-05-09 20:27:35,143 | INFO | Running query: audio of kerala
+2026-05-09 20:27:35,196 | INFO | Best similarity distance: 0.8836568593978882
+2026-05-09 20:27:35,289 | INFO | Audio distance: 1.0005393028259277 | title: Culture of India
+2026-05-09 20:27:35,291 | INFO | Audio distance: 1.148306131362915 | title: Culture of India
+2026-05-09 20:27:35,291 | INFO | Audio distance: 1.2260289192199707 | title: Tiger
+2026-05-09 20:27:35,292 | INFO | No relevant audio found
+2026-05-09 20:27:54,252 | INFO | Running query: videos of kerala
+2026-05-09 20:27:54,308 | INFO | Best similarity distance: 0.8363279104232788
+2026-05-09 20:27:54,525 | INFO | Video distance: 1.254786729812622 | title: Taj Mahal
+2026-05-09 20:27:54,526 | INFO | Video distance: 1.4282011985778809 | title: Culture of India
+2026-05-09 20:27:54,526 | INFO | Video distance: 1.5108697414398193 | title: Culture of India
+2026-05-09 20:27:54,526 | INFO | Video distance: 2.001293182373047 | title: Tiger
+2026-05-09 20:27:54,528 | INFO | No relevant video found
+2026-05-09 20:28:57,702 | INFO | Running query: video of taj mahal
+2026-05-09 20:28:57,766 | INFO | Best similarity distance: 0.6853610277175903
+2026-05-09 20:28:57,808 | INFO | Video distance: 0.5029737949371338 | title: Taj Mahal
+2026-05-09 20:28:57,809 | INFO | Video distance: 1.4426257610321045 | title: Culture of India
+2026-05-09 20:28:57,810 | INFO | Video distance: 1.600230097770691 | title: Culture of India
+2026-05-09 20:28:57,811 | INFO | Video distance: 2.026447296142578 | title: Tiger
+2026-05-09 20:29:29,819 | INFO | Running query: video of tiger
+2026-05-09 20:29:29,866 | INFO | Best similarity distance: 0.890977680683136
+2026-05-09 20:29:29,910 | INFO | Video distance: 1.0183439254760742 | title: Tiger
+2026-05-09 20:29:29,910 | INFO | Video distance: 1.44135582447052 | title: Culture of India
+2026-05-09 20:29:29,911 | INFO | Video distance: 1.5642940998077393 | title: Taj Mahal
+2026-05-09 20:29:29,911 | INFO | Video distance: 1.6207882165908813 | title: Culture of India
+2026-05-09 20:29:40,838 | INFO | Running query: audio of tiger
+2026-05-09 20:29:40,891 | INFO | Best similarity distance: 0.9952002763748169
+2026-05-09 20:29:40,935 | INFO | Audio distance: 1.0539048910140991 | title: Tiger
+2026-05-09 20:29:40,935 | INFO | Audio distance: 1.3380322456359863 | title: Culture of India
+2026-05-09 20:29:40,936 | INFO | Audio distance: 1.363814353942871 | title: Culture of India
+2026-05-09 20:30:02,026 | INFO | Running query: audio of indian culture
+2026-05-09 20:30:02,095 | INFO | Best similarity distance: 0.950053334236145
+2026-05-09 20:30:02,142 | INFO | Audio distance: 0.8909300565719604 | title: Culture of India
+2026-05-09 20:30:02,143 | INFO | Audio distance: 1.026265025138855 | title: Culture of India
+2026-05-09 20:30:02,143 | INFO | Audio distance: 1.241947889328003 | title: Tiger
+2026-05-09 20:30:02,145 | INFO | No relevant audio found
+2026-05-09 20:31:10,954 | INFO | Running query: video of indian culture
+2026-05-09 20:31:11,008 | INFO | Best similarity distance: 0.8851525783538818
+2026-05-09 20:31:11,052 | INFO | Video distance: 1.0036182403564453 | title: Taj Mahal
+2026-05-09 20:31:11,053 | INFO | Video distance: 1.283291220664978 | title: Culture of India
+2026-05-09 20:31:11,053 | INFO | Video distance: 1.4620693922042847 | title: Culture of India
+2026-05-09 20:31:11,053 | INFO | Video distance: 1.8820834159851074 | title: Tiger
+2026-05-09 20:31:11,055 | INFO | No relevant video found
+2026-05-09 20:31:27,218 | INFO | Running query: video of Culture of India
+2026-05-09 20:31:27,267 | INFO | Best similarity distance: 0.8281289935112
+2026-05-09 20:31:27,316 | INFO | Video distance: 1.0029902458190918 | title: Taj Mahal
+2026-05-09 20:31:27,316 | INFO | Video distance: 1.355968952178955 | title: Culture of India
+2026-05-09 20:31:27,318 | INFO | Video distance: 1.5273531675338745 | title: Culture of India
+2026-05-09 20:31:27,319 | INFO | Video distance: 1.9282526969909668 | title: Tiger
+2026-05-09 20:31:48,758 | INFO | Running query: audio of Culture of India
+2026-05-09 20:31:48,815 | INFO | Best similarity distance: 0.9275357127189636
+2026-05-09 20:31:48,863 | INFO | Audio distance: 0.9656916856765747 | title: Culture of India
+2026-05-09 20:31:48,864 | INFO | Audio distance: 1.106797695159912 | title: Culture of India
+2026-05-09 20:31:48,864 | INFO | Audio distance: 1.3158682584762573 | title: Tiger
+2026-05-09 20:32:10,712 | INFO | Running query: photos of yoga
+2026-05-09 20:32:10,761 | INFO | Best similarity distance: 0.7762672305107117
+2026-05-09 20:32:10,804 | INFO | Image distance: 1.0035308599472046 | title: Yoga
+2026-05-09 20:32:10,804 | INFO | Image distance: 1.1600277423858643 | title: Culture of India
+2026-05-09 20:32:10,805 | INFO | Image distance: 1.1722030639648438 | title: Visakhapatnam
+2026-05-09 20:32:10,806 | INFO | Image distance: 1.2269339561462402 | title: Kerala
+2026-05-09 20:32:10,806 | INFO | Image distance: 1.2375640869140625 | title: Yoga
+2026-05-09 20:32:43,187 | INFO | Running query: photos of Visakhapatnam
+2026-05-09 20:32:43,221 | INFO | Best similarity distance: 0.8906739354133606
+2026-05-09 20:32:43,248 | INFO | Image distance: 1.1596064567565918 | title: Visakhapatnam
+2026-05-09 20:32:43,249 | INFO | Image distance: 1.2194207906723022 | title: Culture of India
+2026-05-09 20:32:43,249 | INFO | Image distance: 1.2506762742996216 | title: Culture of India
+2026-05-09 20:32:43,249 | INFO | Image distance: 1.2543675899505615 | title: Kerala
+2026-05-09 20:32:43,250 | INFO | Image distance: 1.2887279987335205 | title: Yoga
+2026-05-09 20:33:05,233 | INFO | Running query: videos of yoga
+2026-05-09 20:33:05,260 | INFO | Best similarity distance: 0.772240936756134
+2026-05-09 20:33:05,295 | INFO | Video distance: 1.355610728263855 | title: Taj Mahal
+2026-05-09 20:33:05,296 | INFO | Video distance: 1.3605372905731201 | title: Culture of India
+2026-05-09 20:33:05,296 | INFO | Video distance: 1.4976520538330078 | title: Culture of India
+2026-05-09 20:33:05,297 | INFO | Video distance: 2.0937390327453613 | title: Tiger
+2026-05-09 20:33:05,297 | INFO | No relevant video found
+2026-05-09 20:35:29,236 | INFO | Running query: give me artificial intelligence
+2026-05-09 20:35:29,278 | INFO | Best similarity distance: 1.661708116531372
+2026-05-09 20:35:29,278 | INFO | Triggering cold-start ingestion...
+2026-05-09 20:35:29,280 | INFO | Cold-start topic: Artificial Intelligence
+2026-05-09 20:35:29,280 | INFO | Starting ingestion for: Artificial Intelligence
+2026-05-09 20:35:31,744 | INFO | Processing text chunks...
+2026-05-09 20:35:48,426 | INFO | Text embeddings stored
+2026-05-09 20:35:48,428 | INFO | Processing images...
+2026-05-09 20:35:48,429 | INFO | Embedding image 0
+2026-05-09 20:36:02,418 | INFO | Image stored successfully
+2026-05-09 20:36:02,418 | INFO | Embedding image 1
+2026-05-09 20:36:17,247 | INFO | Image stored successfully
+2026-05-09 20:36:17,247 | INFO | Embedding image 2
+2026-05-09 20:36:30,229 | INFO | Image stored successfully
+2026-05-09 20:36:30,229 | INFO | Embedding image 3
+2026-05-09 20:36:44,496 | INFO | Image stored successfully
+2026-05-09 20:36:44,496 | INFO | Embedding image 4
+2026-05-09 20:37:01,171 | INFO | Image stored successfully
+2026-05-09 20:37:01,172 | INFO | Embedding image 5
+2026-05-09 20:37:19,954 | INFO | Image stored successfully
+2026-05-09 20:37:19,954 | INFO | Embedding image 6
+2026-05-09 20:37:35,489 | INFO | Image stored successfully
+2026-05-09 20:37:35,489 | INFO | Embedding image 7
+2026-05-09 20:37:47,204 | INFO | Image stored successfully
+2026-05-09 20:37:47,204 | INFO | Processing audio...
+2026-05-09 20:37:47,204 | INFO | Processing videos...
+2026-05-09 20:37:47,204 | INFO | Cold-start ingestion complete
+2026-05-09 20:37:47,227 | INFO | Text distance: 0.8968084454536438 | title: Artificial intelligence
+2026-05-09 20:37:47,228 | INFO | Text distance: 0.9367024898529053 | title: Artificial intelligence
+2026-05-09 20:37:47,228 | INFO | Text distance: 1.024888277053833 | title: Artificial intelligence
+2026-05-09 20:37:47,228 | INFO | Text distance: 1.03191077709198 | title: Artificial intelligence
+2026-05-09 20:37:47,229 | INFO | Text distance: 1.0366663932800293 | title: Artificial intelligence
+2026-05-09 20:38:09,377 | INFO | Running query: photos of artificial intelligence
+2026-05-09 20:38:09,408 | INFO | Best similarity distance: 0.915137529373169
+2026-05-09 20:38:09,437 | INFO | Image distance: 1.188035011291504 | title: Artificial intelligence
+2026-05-09 20:38:09,439 | INFO | Image distance: 1.264796495437622 | title: Artificial intelligence
+2026-05-09 20:38:09,439 | INFO | Image distance: 1.2692806720733643 | title: Artificial intelligence
+2026-05-09 20:38:09,439 | INFO | Image distance: 1.336040735244751 | title: Artificial intelligence
+2026-05-09 20:38:09,439 | INFO | Image distance: 1.3569815158843994 | title: Kerala
+2026-05-09 20:39:04,298 | INFO | Running query: audios  of artificial intelligence
+2026-05-09 20:39:04,356 | INFO | Best similarity distance: 1.0846319198608398
+2026-05-09 20:39:04,356 | INFO | Triggering cold-start ingestion...
+2026-05-09 20:39:04,357 | INFO | Cold-start topic: Audios  Of Artificial Intelligence
+2026-05-09 20:39:04,357 | INFO | Starting ingestion for: Audios  Of Artificial Intelligence
+2026-05-09 20:39:05,327 | INFO | Cold-start ingestion complete
+2026-05-09 20:39:05,359 | INFO | Audio distance: 1.2418781518936157 | title: Tiger
+2026-05-09 20:39:05,360 | INFO | Audio distance: 1.3662083148956299 | title: Culture of India
+2026-05-09 20:39:05,360 | INFO | Audio distance: 1.385075569152832 | title: Culture of India
+2026-05-09 20:39:05,360 | INFO | No relevant audio found
+2026-05-09 20:39:14,616 | INFO | Running query: videos of artificial intelligence
+2026-05-09 20:39:14,670 | INFO | Best similarity distance: 0.851142942905426
+2026-05-09 20:39:14,719 | INFO | Video distance: 1.5280036926269531 | title: Taj Mahal
+2026-05-09 20:39:14,719 | INFO | Video distance: 1.5440757274627686 | title: Culture of India
+2026-05-09 20:39:14,720 | INFO | Video distance: 1.9762598276138306 | title: Culture of India
+2026-05-09 20:39:14,721 | INFO | Video distance: 2.0821056365966797 | title: Tiger
+2026-05-09 20:39:14,721 | INFO | No relevant video found
+2026-05-10 20:58:24,644 | INFO | Running query: give me about culture of india
+2026-05-10 20:58:25,622 | INFO | Best similarity distance: 0.6112067103385925
+2026-05-10 20:58:25,676 | INFO | Text distance: 0.6112067103385925 | title: Culture of India
+2026-05-10 20:58:25,676 | INFO | Text distance: 0.7108550071716309 | title: Culture of India
+2026-05-10 20:58:25,677 | INFO | Text distance: 0.8181482553482056 | title: Culture of India
+2026-05-10 20:58:25,678 | INFO | Text distance: 0.8216726779937744 | title: Kerala
+2026-05-10 20:58:25,678 | INFO | Text distance: 0.836119532585144 | title: Culture of India
+2026-05-10 20:59:32,087 | INFO | Running query: photos of culture of india
+2026-05-10 20:59:32,135 | INFO | Best similarity distance: 0.8216530084609985
+2026-05-10 20:59:32,365 | INFO | Image distance: 1.0330777168273926 | title: Kerala
+2026-05-10 20:59:32,366 | INFO | Image distance: 1.034629464149475 | title: Culture of India
+2026-05-10 20:59:32,366 | INFO | Image distance: 1.0690191984176636 | title: Visakhapatnam
+2026-05-10 20:59:32,366 | INFO | Image distance: 1.1173065900802612 | title: Yoga
+2026-05-10 20:59:32,367 | INFO | Image distance: 1.1404473781585693 | title: Taj Mahal
+2026-05-10 21:00:10,432 | INFO | Running query: photos of culture of india
+2026-05-10 21:00:10,518 | INFO | Best similarity distance: 0.8216530084609985
+2026-05-10 21:00:10,550 | INFO | Image distance: 1.0330777168273926 | title: Kerala
+2026-05-10 21:00:10,551 | INFO | Image distance: 1.034629464149475 | title: Culture of India
+2026-05-10 21:00:10,551 | INFO | Image distance: 1.0690191984176636 | title: Visakhapatnam
+2026-05-10 21:00:10,552 | INFO | Image distance: 1.1173065900802612 | title: Yoga
+2026-05-10 21:00:10,552 | INFO | Image distance: 1.1404473781585693 | title: Taj Mahal
+2026-05-10 21:00:33,542 | INFO | Running query: video of culture of india
+2026-05-10 21:00:33,586 | INFO | Best similarity distance: 0.8281289935112
+2026-05-10 21:00:33,662 | INFO | Video distance: 1.0029902458190918 | title: Taj Mahal
+2026-05-10 21:00:33,662 | INFO | Video distance: 1.355968952178955 | title: Culture of India
+2026-05-10 21:00:33,662 | INFO | Video distance: 1.5273531675338745 | title: Culture of India
+2026-05-10 21:00:33,662 | INFO | Video distance: 1.9282526969909668 | title: Tiger
+2026-05-10 21:01:15,625 | INFO | Running query: audios  of  taj mahal
+2026-05-10 21:01:15,679 | INFO | Best similarity distance: 0.9371254444122314
+2026-05-10 21:01:15,775 | INFO | Audio distance: 1.0098828077316284 | title: Culture of India
+2026-05-10 21:01:15,775 | INFO | Audio distance: 1.183428168296814 | title: Culture of India
+2026-05-10 21:01:15,776 | INFO | Audio distance: 1.2756339311599731 | title: Tiger
+2026-05-10 21:01:15,776 | INFO | No relevant audio found
+2026-05-10 21:01:29,996 | INFO | Running query: videos of  taj mahal
+2026-05-10 21:01:30,141 | INFO | Best similarity distance: 0.6829059720039368
+2026-05-10 21:01:30,170 | INFO | Video distance: 0.5126780271530151 | title: Taj Mahal
+2026-05-10 21:01:30,172 | INFO | Video distance: 1.4424387216567993 | title: Culture of India
+2026-05-10 21:01:30,172 | INFO | Video distance: 1.5905332565307617 | title: Culture of India
+2026-05-10 21:01:30,173 | INFO | Video distance: 2.051213502883911 | title: Tiger
+2026-05-10 21:01:42,285 | INFO | Running query: give me about artificial intelligence
+2026-05-10 21:01:42,495 | INFO | Best similarity distance: 0.6844297051429749
+2026-05-10 21:01:42,526 | INFO | Text distance: 0.6844297051429749 | title: Artificial intelligence
+2026-05-10 21:01:42,526 | INFO | Text distance: 0.7010523080825806 | title: Artificial intelligence
+2026-05-10 21:01:42,527 | INFO | Text distance: 0.8341606855392456 | title: Artificial intelligence
+2026-05-10 21:01:42,528 | INFO | Text distance: 0.8491570949554443 | title: Artificial intelligence
+2026-05-10 21:01:42,529 | INFO | Text distance: 0.8687132596969604 | title: Artificial intelligence
+2026-05-11 10:42:41,706 | INFO | Running query: What are tiger habitats
+2026-05-11 10:42:42,211 | INFO | Best similarity distance: 0.7436903715133667
+2026-05-11 10:42:42,256 | INFO | Text distance: 0.7436903715133667 | title: Tiger
+2026-05-11 10:42:42,257 | INFO | Text distance: 0.7484568357467651 | title: Tiger
+2026-05-11 10:42:42,258 | INFO | Text distance: 0.7683093547821045 | title: Tiger
+2026-05-11 10:42:42,258 | INFO | Text distance: 0.7801347970962524 | title: Tiger
+2026-05-11 10:42:42,260 | INFO | Text distance: 0.7954011559486389 | title: Tiger
+2026-05-11 10:42:50,234 | INFO | Running query: show tiger images
+2026-05-11 10:42:50,318 | INFO | Best similarity distance: 0.9447307586669922
+2026-05-11 10:42:50,438 | INFO | Image distance: 0.6853616237640381 | title: Tiger
+2026-05-11 10:42:50,439 | INFO | Image distance: 0.757576048374176 | title: Tiger
+2026-05-11 10:42:50,439 | INFO | Image distance: 0.7588100433349609 | title: Tiger
+2026-05-11 10:42:50,440 | INFO | Image distance: 0.7819757461547852 | title: Tiger
+2026-05-11 10:42:50,441 | INFO | Image distance: 0.8094025254249573 | title: Tiger
+2026-05-11 10:42:57,207 | INFO | Running query: tiger sounds
+2026-05-11 10:42:57,235 | INFO | Best similarity distance: 0.7566530108451843
+2026-05-11 10:42:57,339 | INFO | Audio distance: 1.1408616304397583 | title: Tiger
+2026-05-11 10:42:57,340 | INFO | Audio distance: 1.5327754020690918 | title: Culture of India
+2026-05-11 10:42:57,340 | INFO | Audio distance: 1.5807470083236694 | title: Culture of India
+2026-05-11 10:42:57,340 | INFO | No relevant audio found
+2026-05-11 10:43:04,016 | INFO | Running query: tiger videos
+2026-05-11 10:43:04,059 | INFO | Best similarity distance: 0.9657651782035828
+2026-05-11 10:43:04,130 | INFO | Video distance: 1.1364893913269043 | title: Tiger
+2026-05-11 10:43:04,131 | INFO | Video distance: 1.4269375801086426 | title: Culture of India
+2026-05-11 10:43:04,131 | INFO | Video distance: 1.628836750984192 | title: Taj Mahal
+2026-05-11 10:43:04,131 | INFO | Video distance: 1.6658964157104492 | title: Culture of India
+2026-05-11 10:43:10,684 | WARNING | Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2026-05-11 10:43:10,727 | INFO | No device provided, using cpu
+2026-05-11 10:43:12,383 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:12,468 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/modules.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:13,193 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:13,910 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:13,936 | INFO | Loading SentenceTransformer model from BAAI/bge-small-en-v1.5.
+2026-05-11 10:43:14,640 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:15,045 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:15,608 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:15,924 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/README.md "HTTP/1.1 200 OK"
+2026-05-11 10:43:16,409 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:16,495 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/modules.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:16,989 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:17,048 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:17,446 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:43:18,324 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:18,651 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:19,763 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:43:20,104 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:43:20,468 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:43:20,973 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:43:21,316 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:21,630 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:22,018 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:22,124 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:23,656 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:24,057 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:24,676 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:25,197 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:25,945 | INFO | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-11 10:43:26,302 | INFO | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-11 10:43:27,334 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:43:27,905 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-05-11 10:43:28,282 | INFO | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5 "HTTP/1.1 200 OK"
+2026-05-11 10:43:34,628 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:43:37,022 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:43:45,367 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:43:47,616 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:43:49,782 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:43:56,469 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:44:09,256 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:45:16,626 | INFO | Running query: What are tiger habitats
+2026-05-11 10:45:16,815 | INFO | Best similarity distance: 0.7436903715133667
+2026-05-11 10:45:16,846 | INFO | Text distance: 0.7436903715133667 | title: Tiger
+2026-05-11 10:45:16,846 | INFO | Text distance: 0.7484568357467651 | title: Tiger
+2026-05-11 10:45:16,846 | INFO | Text distance: 0.7683093547821045 | title: Tiger
+2026-05-11 10:45:16,847 | INFO | Text distance: 0.7801347970962524 | title: Tiger
+2026-05-11 10:45:16,847 | INFO | Text distance: 0.7954011559486389 | title: Tiger
+2026-05-11 10:45:24,038 | INFO | Running query: show tiger images
+2026-05-11 10:45:24,071 | INFO | Best similarity distance: 0.9447307586669922
+2026-05-11 10:45:24,152 | INFO | Image distance: 0.6853616237640381 | title: Tiger
+2026-05-11 10:45:24,153 | INFO | Image distance: 0.757576048374176 | title: Tiger
+2026-05-11 10:45:24,153 | INFO | Image distance: 0.7588100433349609 | title: Tiger
+2026-05-11 10:45:24,153 | INFO | Image distance: 0.7819757461547852 | title: Tiger
+2026-05-11 10:45:24,154 | INFO | Image distance: 0.8094025254249573 | title: Tiger
+2026-05-11 10:45:31,434 | INFO | Running query: tiger sounds
+2026-05-11 10:45:31,467 | INFO | Best similarity distance: 0.7566530108451843
+2026-05-11 10:45:31,535 | INFO | Audio distance: 1.1408616304397583 | title: Tiger
+2026-05-11 10:45:31,535 | INFO | Audio distance: 1.5327754020690918 | title: Culture of India
+2026-05-11 10:45:31,536 | INFO | Audio distance: 1.5807470083236694 | title: Culture of India
+2026-05-11 10:45:31,536 | INFO | No relevant audio found
+2026-05-11 10:45:38,422 | INFO | Running query: tiger videos
+2026-05-11 10:45:38,450 | INFO | Best similarity distance: 0.9657651782035828
+2026-05-11 10:45:38,508 | INFO | Video distance: 1.1364893913269043 | title: Tiger
+2026-05-11 10:45:38,508 | INFO | Video distance: 1.4269375801086426 | title: Culture of India
+2026-05-11 10:45:38,508 | INFO | Video distance: 1.628836750984192 | title: Taj Mahal
+2026-05-11 10:45:38,509 | INFO | Video distance: 1.6658964157104492 | title: Culture of India
+2026-05-11 10:45:45,077 | WARNING | Both GOOGLE_API_KEY and GEMINI_API_KEY are set. Using GOOGLE_API_KEY.
+2026-05-11 10:45:45,136 | INFO | No device provided, using cpu
+2026-05-11 10:45:46,092 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:45:46,148 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/modules.json "HTTP/1.1 200 OK"
+2026-05-11 10:45:46,969 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:45:47,022 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-11 10:45:47,027 | INFO | Loading SentenceTransformer model from BAAI/bge-small-en-v1.5.
+2026-05-11 10:45:47,336 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:45:47,443 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-05-11 10:45:47,898 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:45:49,023 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/README.md "HTTP/1.1 200 OK"
+2026-05-11 10:45:51,319 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:45:53,430 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/modules.json "HTTP/1.1 200 OK"
+2026-05-11 10:45:55,842 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:45:57,919 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-05-11 10:45:58,993 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:45:59,376 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:45:59,474 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-05-11 10:46:00,044 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:46:00,366 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:46:00,711 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:46:01,046 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-05-11 10:46:01,461 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:46:01,983 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-11 10:46:02,812 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:46:03,096 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-05-11 10:46:03,470 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:46:03,637 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-05-11 10:46:04,102 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:46:04,154 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-05-11 10:46:04,520 | INFO | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-11 10:46:05,104 | INFO | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-11 10:46:05,848 | INFO | HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-11 10:46:05,995 | INFO | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-05-11 10:46:06,370 | INFO | HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5 "HTTP/1.1 200 OK"
+2026-05-11 10:46:11,575 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:46:14,355 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:46:24,217 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:46:28,684 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:46:33,861 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:46:35,971 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:46:46,931 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:46:51,286 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:01,414 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:13,886 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:18,042 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:22,755 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:26,045 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:33,555 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:37,548 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:46,926 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:47:58,677 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:07,834 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:11,450 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:26,310 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:30,472 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:39,394 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:41,200 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:43,609 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:49,906 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:52,351 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:48:54,484 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:02,312 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:04,786 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:12,941 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:15,578 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:23,728 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:26,984 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:40,048 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:42,225 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:49:53,256 | INFO | AFC is enabled with max remote calls: 10.
+2026-05-11 10:50:01,224 | ERROR | Fatal error on SSL transport
+protocol: <asyncio.sslproto.SSLProtocol object at 0x0000028B2BD59E70>
+transport: <_ProactorSocketTransport fd=-1 read=<_OverlappedFuture cancelled>>
+Traceback (most recent call last):
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\asyncio\sslproto.py", line 690, in _process_write_backlog
+    self._transport.write(chunk)
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 365, in write
+    self._loop_writing(data=bytes(data))
+  File "C:\Users\anura\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 401, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+AttributeError: 'NoneType' object has no attribute 'send'
+2026-05-11 11:19:07,086 | INFO | Running query: give me about tiger
+2026-05-11 11:19:07,581 | INFO | Best similarity distance: 0.7783331274986267
+2026-05-11 11:19:07,610 | INFO | Text distance: 0.7783331274986267 | title: Tiger
+2026-05-11 11:19:07,610 | INFO | Text distance: 0.8171969652175903 | title: Tiger
+2026-05-11 11:19:07,610 | INFO | Text distance: 0.8265175819396973 | title: Tiger
+2026-05-11 11:19:07,611 | INFO | Text distance: 0.8367851972579956 | title: Tiger
+2026-05-11 11:19:07,611 | INFO | Text distance: 0.8381398916244507 | title: Tiger
+2026-05-11 11:23:59,707 | INFO | Running query: give me about tiger
+2026-05-11 11:23:59,817 | INFO | Best similarity distance: 0.7783331274986267
+2026-05-11 11:23:59,836 | INFO | Text distance: 0.7783331274986267 | title: Tiger
+2026-05-11 11:23:59,836 | INFO | Text distance: 0.8171969652175903 | title: Tiger
+2026-05-11 11:23:59,836 | INFO | Text distance: 0.8265175819396973 | title: Tiger
+2026-05-11 11:23:59,837 | INFO | Text distance: 0.8367851972579956 | title: Tiger
+2026-05-11 11:23:59,837 | INFO | Text distance: 0.8381398916244507 | title: Tiger
+2026-05-11 11:24:23,584 | INFO | Running query: audios  of  tiger
+2026-05-11 11:24:23,616 | INFO | Best similarity distance: 0.9920570850372314
+2026-05-11 11:24:23,742 | INFO | Audio distance: 1.0557096004486084 | title: Tiger
+2026-05-11 11:24:23,743 | INFO | Audio distance: 1.3373419046401978 | title: Culture of India
+2026-05-11 11:24:23,744 | INFO | Audio distance: 1.35044527053833 | title: Culture of India
+2026-05-11 11:25:21,249 | INFO | Running query: videos of  tiger
+2026-05-11 11:25:21,286 | INFO | Best similarity distance: 0.8401743173599243
+2026-05-11 11:25:21,341 | INFO | Video distance: 1.0371711254119873 | title: Tiger
+2026-05-11 11:25:21,342 | INFO | Video distance: 1.397883415222168 | title: Culture of India
+2026-05-11 11:25:21,342 | INFO | Video distance: 1.5736374855041504 | title: Taj Mahal
+2026-05-11 11:25:21,342 | INFO | Video distance: 1.6192773580551147 | title: Culture of India
+2026-05-11 11:26:02,909 | INFO | Running query: video of tajmahal
+2026-05-11 11:26:03,013 | INFO | Best similarity distance: 1.1215670108795166
+2026-05-11 11:26:03,014 | INFO | Triggering cold-start ingestion...
+2026-05-11 11:26:03,015 | INFO | Cold-start topic: Video Of Tajmahal
+2026-05-11 11:26:03,016 | INFO | Starting ingestion for: Video Of Tajmahal
+2026-05-11 11:26:04,624 | INFO | Cold-start ingestion complete
+2026-05-11 11:26:04,648 | INFO | Video distance: 0.9463150501251221 | title: Taj Mahal
+2026-05-11 11:26:04,649 | INFO | Video distance: 1.3978010416030884 | title: Culture of India
+2026-05-11 11:26:04,649 | INFO | Video distance: 1.510840892791748 | title: Culture of India
+2026-05-11 11:26:04,650 | INFO | Video distance: 1.9386074542999268 | title: Tiger
+2026-05-11 11:26:04,650 | INFO | No relevant video found
+2026-05-11 11:26:08,514 | INFO | Running query: video of tajmahal
+2026-05-11 11:26:08,538 | INFO | Best similarity distance: 1.1215670108795166
+2026-05-11 11:26:08,538 | INFO | Triggering cold-start ingestion...
+2026-05-11 11:26:08,539 | INFO | Cold-start topic: Video Of Tajmahal
+2026-05-11 11:26:08,539 | INFO | Starting ingestion for: Video Of Tajmahal
+2026-05-11 11:26:09,185 | INFO | Cold-start ingestion complete
+2026-05-11 11:26:09,214 | INFO | Video distance: 0.9463150501251221 | title: Taj Mahal
+2026-05-11 11:26:09,215 | INFO | Video distance: 1.3978010416030884 | title: Culture of India
+2026-05-11 11:26:09,215 | INFO | Video distance: 1.510840892791748 | title: Culture of India
+2026-05-11 11:26:09,216 | INFO | Video distance: 1.9386074542999268 | title: Tiger
+2026-05-11 11:26:09,216 | INFO | No relevant video found
+2026-05-11 11:26:16,087 | INFO | Running query: videos of tajmahal
+2026-05-11 11:26:16,124 | INFO | Best similarity distance: 1.1107622385025024
+2026-05-11 11:26:16,124 | INFO | Triggering cold-start ingestion...
+2026-05-11 11:26:16,125 | INFO | Cold-start topic: Tajmahal
+2026-05-11 11:26:16,125 | INFO | Starting ingestion for: Tajmahal
+2026-05-11 11:26:18,281 | INFO | Processing text chunks...
+2026-05-11 11:26:19,111 | INFO | Running query: videos of taj mahal
+2026-05-11 11:26:19,308 | INFO | Best similarity distance: 0.6829059720039368
+2026-05-11 11:26:19,352 | INFO | Video distance: 0.5126780271530151 | title: Taj Mahal
+2026-05-11 11:26:19,353 | INFO | Video distance: 1.4424387216567993 | title: Culture of India
+2026-05-11 11:26:19,353 | INFO | Video distance: 1.5905332565307617 | title: Culture of India
+2026-05-11 11:26:19,354 | INFO | Video distance: 2.051213502883911 | title: Tiger
+2026-05-11 11:26:23,581 | INFO | Text embeddings stored
+2026-05-11 11:26:23,583 | INFO | Processing images...
+2026-05-11 11:26:23,583 | INFO | Embedding image 0
+2026-05-11 11:26:48,389 | INFO | Image stored successfully
+2026-05-11 11:26:48,390 | INFO | Embedding image 1
+2026-05-11 11:27:00,665 | INFO | Image stored successfully
+2026-05-11 11:27:00,665 | INFO | Embedding image 2
+2026-05-11 11:27:06,976 | INFO | Running query: audio of indian culture
+2026-05-11 11:27:07,009 | INFO | Best similarity distance: 0.950053334236145
+2026-05-11 11:27:07,034 | INFO | Audio distance: 0.8909300565719604 | title: Culture of India
+2026-05-11 11:27:07,035 | INFO | Audio distance: 1.026265025138855 | title: Culture of India
+2026-05-11 11:27:07,035 | INFO | Audio distance: 1.241947889328003 | title: Tiger
+2026-05-11 11:27:07,036 | INFO | No relevant audio found
+2026-05-11 11:27:10,560 | INFO | Running query: audio of indian culture
+2026-05-11 11:27:10,592 | INFO | Best similarity distance: 0.950053334236145
+2026-05-11 11:27:10,616 | INFO | Audio distance: 0.8909300565719604 | title: Culture of India
+2026-05-11 11:27:10,617 | INFO | Audio distance: 1.026265025138855 | title: Culture of India
+2026-05-11 11:27:10,617 | INFO | Audio distance: 1.241947889328003 | title: Tiger
+2026-05-11 11:27:10,618 | INFO | No relevant audio found
+2026-05-11 11:27:15,577 | INFO | Image stored successfully
+2026-05-11 11:27:15,578 | INFO | Embedding image 3
+2026-05-11 11:27:25,150 | INFO | Running query: videos of indian culture
+2026-05-11 11:27:25,193 | INFO | Best similarity distance: 0.8901750445365906
+2026-05-11 11:27:25,215 | INFO | Video distance: 1.0796278715133667 | title: Taj Mahal
+2026-05-11 11:27:25,216 | INFO | Video distance: 1.3269329071044922 | title: Culture of India
+2026-05-11 11:27:25,216 | INFO | Video distance: 1.440361738204956 | title: Culture of India
+2026-05-11 11:27:25,217 | INFO | Video distance: 1.9240771532058716 | title: Tiger
+2026-05-11 11:27:25,217 | INFO | No relevant video found
+2026-05-11 11:27:34,396 | INFO | Image stored successfully
+2026-05-11 11:27:34,396 | INFO | Embedding image 4
+2026-05-11 11:27:36,378 | INFO | Running query: videos of culture of india
+2026-05-11 11:27:36,410 | INFO | Best similarity distance: 0.8240753412246704
+2026-05-11 11:27:36,435 | INFO | Video distance: 1.0645184516906738 | title: Taj Mahal
+2026-05-11 11:27:36,436 | INFO | Video distance: 1.3744187355041504 | title: Culture of India
+2026-05-11 11:27:36,436 | INFO | Video distance: 1.530475378036499 | title: Culture of India
+2026-05-11 11:27:36,436 | INFO | Video distance: 1.9555206298828125 | title: Tiger
+2026-05-11 11:27:49,626 | INFO | Image stored successfully
+2026-05-11 11:27:49,627 | INFO | Embedding image 5
+2026-05-11 11:28:03,547 | INFO | Image stored successfully
+2026-05-11 11:28:03,548 | INFO | Embedding image 6
+2026-05-11 11:28:16,170 | INFO | Image stored successfully
+2026-05-11 11:28:16,170 | INFO | Embedding image 7
+2026-05-11 11:28:19,575 | INFO | Running query: audios of culture of india
+2026-05-11 11:28:19,638 | INFO | Best similarity distance: 0.9229955673217773
+2026-05-11 11:28:19,666 | INFO | Audio distance: 0.948776125907898 | title: Culture of India
+2026-05-11 11:28:19,668 | INFO | Audio distance: 1.0884289741516113 | title: Culture of India
+2026-05-11 11:28:19,668 | INFO | Audio distance: 1.3167433738708496 | title: Tiger
+2026-05-11 11:28:31,781 | INFO | Image stored successfully
+2026-05-11 11:28:31,781 | INFO | Embedding image 8
+2026-05-11 11:28:44,100 | INFO | Image stored successfully
+2026-05-11 11:28:44,101 | INFO | Embedding image 9
+2026-05-11 11:28:57,013 | INFO | Image stored successfully
+2026-05-11 11:28:57,013 | INFO | Processing audio...
+2026-05-11 11:28:57,014 | INFO | Processing videos...
+2026-05-11 11:28:57,014 | INFO | Embedding video 0
+2026-05-11 11:29:02,002 | INFO | Running query: photos of culture of india
+2026-05-11 11:29:02,029 | INFO | Best similarity distance: 0.8216530084609985
+2026-05-11 11:29:02,065 | INFO | Image distance: 1.0330777168273926 | title: Kerala
+2026-05-11 11:29:02,065 | INFO | Image distance: 1.034629464149475 | title: Culture of India
+2026-05-11 11:29:02,066 | INFO | Image distance: 1.0378755331039429 | title: Taj Mahal
+2026-05-11 11:29:02,066 | INFO | Image distance: 1.0690191984176636 | title: Visakhapatnam
+2026-05-11 11:29:02,066 | INFO | Image distance: 1.071925163269043 | title: Taj Mahal
+2026-05-11 11:29:24,953 | INFO | Running query: pictures  of culture of india
+2026-05-11 11:29:24,983 | INFO | Best similarity distance: 0.7350212335586548
+2026-05-11 11:29:25,006 | INFO | Image distance: 0.9802809953689575 | title: Culture of India
+2026-05-11 11:29:25,007 | INFO | Image distance: 1.019182801246643 | title: Kerala
+2026-05-11 11:29:25,007 | INFO | Image distance: 1.0341254472732544 | title: Taj Mahal
+2026-05-11 11:29:25,008 | INFO | Image distance: 1.0387628078460693 | title: Taj Mahal
+2026-05-11 11:29:25,008 | INFO | Image distance: 1.094144582748413 | title: Visakhapatnam
+2026-05-11 11:29:35,383 | INFO | Running query: pictures  of kerala
+2026-05-11 11:29:35,418 | INFO | Best similarity distance: 0.7618827819824219
+2026-05-11 11:29:35,444 | INFO | Image distance: 0.9723751544952393 | title: Kerala
+2026-05-11 11:29:35,444 | INFO | Image distance: 1.0564706325531006 | title: Kerala
+2026-05-11 11:29:35,444 | INFO | Image distance: 1.1160826683044434 | title: Kerala
+2026-05-11 11:29:35,445 | INFO | Image distance: 1.1426258087158203 | title: Taj Mahal
+2026-05-11 11:29:35,445 | INFO | Image distance: 1.1622514724731445 | title: Culture of India
+2026-05-11 11:29:47,563 | INFO | Video stored successfully
+2026-05-11 11:29:47,563 | INFO | Cold-start ingestion complete
+2026-05-11 11:29:47,590 | INFO | Video distance: 0.9547276496887207 | title: Taj Mahal
+2026-05-11 11:29:47,591 | INFO | Video distance: 1.1645236015319824 | title: Taj Mahal
+2026-05-11 11:29:47,591 | INFO | Video distance: 1.3721410036087036 | title: Culture of India
+2026-05-11 11:29:47,591 | INFO | Video distance: 1.4604679346084595 | title: Culture of India
+2026-05-11 11:29:47,592 | INFO | Video distance: 1.9699040651321411 | title: Tiger
+2026-05-11 11:29:47,592 | INFO | No relevant video found
+2026-05-11 11:29:53,413 | INFO | Running query: pictures of tiger
+2026-05-11 11:29:53,445 | INFO | Best similarity distance: 0.7977072596549988
+2026-05-11 11:29:53,472 | INFO | Image distance: 0.5141673684120178 | title: Tiger
+2026-05-11 11:29:53,472 | INFO | Image distance: 0.5661377310752869 | title: Tiger
+2026-05-11 11:29:53,474 | INFO | Image distance: 0.5971170663833618 | title: Tiger
+2026-05-11 11:29:53,474 | INFO | Image distance: 0.6348627805709839 | title: Tiger
+2026-05-11 11:29:53,474 | INFO | Image distance: 0.6437908411026001 | title: Tiger
+2026-05-11 11:54:11,279 | INFO | Starting ingestion for: Indian culture
+2026-05-11 11:54:13,889 | INFO | Processing text chunks...
+2026-05-11 11:54:29,248 | INFO | Text embeddings stored
+2026-05-11 11:54:29,248 | INFO | Processing images...
+2026-05-11 11:54:29,249 | INFO | Embedding image 0
+2026-05-11 11:54:48,664 | INFO | Image stored successfully
+2026-05-11 11:54:48,665 | INFO | Embedding image 1
+2026-05-11 11:55:03,526 | INFO | Image stored successfully
+2026-05-11 11:55:03,526 | INFO | Embedding image 2
+2026-05-11 11:55:24,498 | INFO | Image stored successfully
+2026-05-11 11:55:24,499 | INFO | Embedding image 3
+2026-05-11 11:55:40,656 | INFO | Image stored successfully
+2026-05-11 11:55:40,657 | INFO | Embedding image 4
+2026-05-11 11:55:55,174 | INFO | Image stored successfully
+2026-05-11 11:55:55,175 | INFO | Embedding image 5
+2026-05-11 11:56:12,050 | INFO | Image stored successfully
+2026-05-11 11:56:12,050 | INFO | Embedding image 6
+2026-05-11 11:56:30,355 | INFO | Image stored successfully
+2026-05-11 11:56:30,355 | INFO | Embedding image 7
+2026-05-11 11:56:45,706 | INFO | Image stored successfully
+2026-05-11 11:56:45,707 | INFO | Embedding image 8
+2026-05-11 11:57:06,148 | INFO | Image stored successfully
+2026-05-11 11:57:06,149 | INFO | Embedding image 9
+2026-05-11 11:57:21,621 | INFO | Image stored successfully
+2026-05-11 11:57:21,621 | INFO | Processing audio...
+2026-05-11 11:57:21,622 | INFO | Embedding audio 0
+2026-05-11 11:57:40,714 | INFO | Audio stored successfully
+2026-05-11 11:57:40,715 | INFO | Embedding audio 1
+2026-05-11 11:58:02,924 | INFO | Audio stored successfully
+2026-05-11 11:58:02,925 | INFO | Processing videos...
+2026-05-11 11:58:02,926 | INFO | Embedding video 0
+2026-05-11 11:59:25,511 | INFO | Video stored successfully
+2026-05-11 11:59:25,511 | INFO | Embedding video 1
+2026-05-11 12:00:31,310 | INFO | Video stored successfully
+2026-05-11 12:00:31,312 | INFO | Starting ingestion for: Kerala
+2026-05-11 12:00:34,226 | INFO | Processing text chunks...
+2026-05-11 12:00:48,477 | INFO | Text embeddings stored
+2026-05-11 12:00:48,478 | INFO | Processing images...
+2026-05-11 12:00:48,479 | INFO | Embedding image 0
+2026-05-11 12:01:02,628 | INFO | Image stored successfully
+2026-05-11 12:01:02,629 | INFO | Embedding image 1
+2026-05-11 12:01:13,037 | INFO | Image stored successfully
+2026-05-11 12:01:13,037 | INFO | Embedding image 2
+2026-05-11 12:01:31,774 | INFO | Image stored successfully
+2026-05-11 12:01:31,774 | INFO | Embedding image 3
+2026-05-11 12:01:46,010 | INFO | Image stored successfully
+2026-05-11 12:01:46,011 | INFO | Embedding image 4
+2026-05-11 12:01:58,960 | INFO | Image stored successfully
+2026-05-11 12:01:58,960 | INFO | Embedding image 5
+2026-05-11 12:02:14,642 | INFO | Image stored successfully
+2026-05-11 12:02:14,642 | INFO | Embedding image 6
+2026-05-11 12:02:30,050 | INFO | Image stored successfully
+2026-05-11 12:02:30,052 | INFO | Embedding image 7
+2026-05-11 12:02:43,746 | INFO | Image stored successfully
+2026-05-11 12:02:43,746 | INFO | Embedding image 8
+2026-05-11 12:02:56,997 | INFO | Image stored successfully
+2026-05-11 12:02:56,998 | INFO | Embedding image 9
+2026-05-11 12:03:12,665 | INFO | Image stored successfully
+2026-05-11 12:03:12,665 | INFO | Processing audio...
+2026-05-11 12:03:12,666 | INFO | Processing videos...
+2026-05-11 12:03:12,668 | INFO | Starting ingestion for: Tamil Nadu
+2026-05-11 12:03:16,721 | INFO | Processing text chunks...
+2026-05-11 12:03:31,489 | INFO | Text embeddings stored
+2026-05-11 12:03:31,489 | INFO | Processing images...
+2026-05-11 12:03:31,490 | INFO | Embedding image 0
+2026-05-11 12:03:46,298 | INFO | Image stored successfully
+2026-05-11 12:03:46,299 | INFO | Embedding image 1
+2026-05-11 12:04:00,830 | INFO | Image stored successfully
+2026-05-11 12:04:00,831 | INFO | Embedding image 2
+2026-05-11 12:04:14,739 | INFO | Image stored successfully
+2026-05-11 12:04:14,739 | INFO | Embedding image 3
+2026-05-11 12:04:32,503 | INFO | Image stored successfully
+2026-05-11 12:04:32,503 | INFO | Embedding image 4
+2026-05-11 12:04:47,392 | INFO | Image stored successfully
+2026-05-11 12:04:47,392 | INFO | Embedding image 5
+2026-05-11 12:05:01,766 | INFO | Image stored successfully
+2026-05-11 12:05:01,767 | INFO | Embedding image 6
+2026-05-11 12:05:13,624 | INFO | Image stored successfully
+2026-05-11 12:05:13,624 | INFO | Embedding image 7
+2026-05-11 12:05:30,572 | INFO | Image stored successfully
+2026-05-11 12:05:30,573 | INFO | Embedding image 8
+2026-05-11 12:05:45,116 | INFO | Image stored successfully
+2026-05-11 12:05:45,116 | INFO | Embedding image 9
+2026-05-11 12:06:00,710 | INFO | Image stored successfully
+2026-05-11 12:06:00,711 | INFO | Processing audio...
+2026-05-11 12:06:00,711 | INFO | Processing videos...
+2026-05-11 12:06:00,712 | INFO | Starting ingestion for: Araku Valley
+2026-05-11 12:06:02,626 | INFO | Processing text chunks...
+2026-05-11 12:06:03,103 | INFO | Text embeddings stored
+2026-05-11 12:06:03,104 | INFO | Processing images...
+2026-05-11 12:06:03,105 | INFO | Embedding image 0
+2026-05-11 12:06:18,394 | INFO | Image stored successfully
+2026-05-11 12:06:18,395 | INFO | Embedding image 1
+2026-05-11 12:06:30,833 | INFO | Image stored successfully
+2026-05-11 12:06:30,834 | INFO | Embedding image 2
+2026-05-11 12:06:44,920 | INFO | Image stored successfully
+2026-05-11 12:06:44,922 | INFO | Embedding image 3
+2026-05-11 12:06:59,931 | INFO | Image stored successfully
+2026-05-11 12:06:59,932 | INFO | Embedding image 4
+2026-05-11 12:07:12,235 | INFO | Image stored successfully
+2026-05-11 12:07:12,236 | INFO | Embedding image 5
+2026-05-11 12:07:26,130 | INFO | Image stored successfully
+2026-05-11 12:07:26,131 | INFO | Embedding image 6
+2026-05-11 12:07:40,524 | INFO | Image stored successfully
+2026-05-11 12:07:40,525 | INFO | Embedding image 7
+2026-05-11 12:07:53,018 | INFO | Image stored successfully
+2026-05-11 12:07:53,018 | INFO | Embedding image 8
+2026-05-11 12:08:09,045 | INFO | Image stored successfully
+2026-05-11 12:08:09,047 | INFO | Embedding image 9
+2026-05-11 12:08:22,136 | INFO | Image stored successfully
+2026-05-11 12:08:22,136 | INFO | Processing audio...
+2026-05-11 12:08:22,137 | INFO | Processing videos...
+2026-05-11 12:08:22,140 | INFO | Starting ingestion for: Taj Mahal
+2026-05-11 12:08:23,639 | INFO | Processing text chunks...
+2026-05-11 12:08:30,205 | INFO | Text embeddings stored
+2026-05-11 12:08:30,205 | INFO | Processing images...
+2026-05-11 12:08:30,206 | INFO | Embedding image 0
+2026-05-11 12:08:40,915 | INFO | Image stored successfully
+2026-05-11 12:08:40,915 | INFO | Embedding image 1
+2026-05-11 12:08:55,803 | INFO | Image stored successfully
+2026-05-11 12:08:55,805 | INFO | Embedding image 2
+2026-05-11 12:09:14,384 | INFO | Image stored successfully
+2026-05-11 12:09:14,385 | INFO | Embedding image 3
+2026-05-11 12:09:27,165 | INFO | Image stored successfully
+2026-05-11 12:09:27,166 | INFO | Embedding image 4
+2026-05-11 12:09:37,946 | INFO | Image stored successfully
+2026-05-11 12:09:37,946 | INFO | Embedding image 5
+2026-05-11 12:09:53,825 | INFO | Image stored successfully
+2026-05-11 12:09:53,826 | INFO | Embedding image 6
+2026-05-11 12:10:08,009 | INFO | Image stored successfully
+2026-05-11 12:10:08,011 | INFO | Embedding image 7
+2026-05-11 12:10:26,628 | INFO | Image stored successfully
+2026-05-11 12:10:26,630 | INFO | Embedding image 8
+2026-05-11 12:10:42,669 | INFO | Image stored successfully
+2026-05-11 12:10:42,669 | INFO | Embedding image 9
+2026-05-11 12:10:56,751 | INFO | Image stored successfully
+2026-05-11 12:10:56,753 | INFO | Processing audio...
+2026-05-11 12:10:56,753 | INFO | Processing videos...
+2026-05-11 12:10:56,754 | INFO | Embedding video 0
+2026-05-11 12:11:50,033 | INFO | Video stored successfully
+2026-05-11 12:11:50,035 | INFO | Starting ingestion for: Red Fort
+2026-05-11 12:11:51,266 | INFO | Processing text chunks...
+2026-05-11 12:11:55,743 | INFO | Text embeddings stored
+2026-05-11 12:11:55,744 | INFO | Processing images...
+2026-05-11 12:11:55,745 | INFO | Embedding image 0
+2026-05-11 12:12:12,595 | INFO | Image stored successfully
+2026-05-11 12:12:12,596 | INFO | Embedding image 1
+2026-05-11 12:12:27,077 | INFO | Image stored successfully
+2026-05-11 12:12:27,078 | INFO | Embedding image 2
+2026-05-11 12:12:43,169 | INFO | Image stored successfully
+2026-05-11 12:12:43,169 | INFO | Embedding image 3
+2026-05-11 12:12:56,748 | INFO | Image stored successfully
+2026-05-11 12:12:56,749 | INFO | Embedding image 4
+2026-05-11 12:13:14,228 | INFO | Image stored successfully
+2026-05-11 12:13:14,229 | INFO | Embedding image 5
+2026-05-11 12:13:31,167 | INFO | Image stored successfully
+2026-05-11 12:13:31,168 | INFO | Embedding image 6
+2026-05-11 12:13:46,124 | INFO | Image stored successfully
+2026-05-11 12:13:46,125 | INFO | Embedding image 7
+2026-05-11 12:14:00,007 | INFO | Image stored successfully
+2026-05-11 12:14:00,008 | INFO | Embedding image 8
+2026-05-11 12:14:16,874 | INFO | Image stored successfully
+2026-05-11 12:14:16,875 | INFO | Embedding image 9
+2026-05-11 12:14:31,370 | INFO | Image stored successfully
+2026-05-11 12:14:31,371 | INFO | Processing audio...
+2026-05-11 12:14:31,371 | INFO | Processing videos...
+2026-05-11 12:14:31,372 | INFO | Starting ingestion for: Mysore Palace
+2026-05-11 12:14:31,867 | INFO | Processing text chunks...
+2026-05-11 12:14:32,256 | INFO | Text embeddings stored
+2026-05-11 12:14:32,256 | INFO | Processing images...
+2026-05-11 12:14:32,257 | INFO | Embedding image 0
+2026-05-11 12:14:47,628 | INFO | Image stored successfully
+2026-05-11 12:14:47,629 | INFO | Embedding image 1
+2026-05-11 12:14:47,984 | INFO | Embedding image 2
+2026-05-11 12:15:03,814 | INFO | Image stored successfully
+2026-05-11 12:15:03,815 | INFO | Embedding image 3
+2026-05-11 12:15:16,766 | INFO | Image stored successfully
+2026-05-11 12:15:16,766 | INFO | Embedding image 4
+2026-05-11 12:15:30,806 | INFO | Image stored successfully
+2026-05-11 12:15:30,807 | INFO | Embedding image 5
+2026-05-11 12:15:43,883 | INFO | Image stored successfully
+2026-05-11 12:15:43,884 | INFO | Embedding image 6
+2026-05-11 12:15:58,095 | INFO | Image stored successfully
+2026-05-11 12:15:58,095 | INFO | Embedding image 7
+2026-05-11 12:16:13,941 | INFO | Image stored successfully
+2026-05-11 12:16:13,942 | INFO | Embedding image 8
+2026-05-11 12:16:28,321 | INFO | Image stored successfully
+2026-05-11 12:16:28,322 | INFO | Embedding image 9
+2026-05-11 12:16:41,465 | INFO | Image stored successfully
+2026-05-11 12:16:41,465 | INFO | Processing audio...
+2026-05-11 12:16:41,465 | INFO | Processing videos...
+2026-05-11 12:16:41,466 | INFO | Starting ingestion for: Hampi
+2026-05-11 12:16:42,768 | INFO | Processing text chunks...
+2026-05-11 12:16:48,662 | INFO | Text embeddings stored
+2026-05-11 12:16:48,663 | INFO | Processing images...
+2026-05-11 12:16:48,663 | INFO | Embedding image 0
+2026-05-11 12:17:07,866 | INFO | Image stored successfully
+2026-05-11 12:17:07,867 | INFO | Embedding image 1
+2026-05-11 12:17:21,956 | INFO | Image stored successfully
+2026-05-11 12:17:21,956 | INFO | Embedding image 2
+2026-05-11 12:17:39,939 | INFO | Image stored successfully
+2026-05-11 12:17:39,940 | INFO | Embedding image 3
+2026-05-11 12:17:55,175 | INFO | Image stored successfully
+2026-05-11 12:17:55,175 | INFO | Embedding image 4
+2026-05-11 12:18:08,016 | INFO | Image stored successfully
+2026-05-11 12:18:08,016 | INFO | Embedding image 5
+2026-05-11 12:18:23,471 | INFO | Image stored successfully
+2026-05-11 12:18:23,472 | INFO | Embedding image 6
+2026-05-11 12:18:37,158 | INFO | Image stored successfully
+2026-05-11 12:18:37,159 | INFO | Embedding image 7
+2026-05-11 12:18:52,439 | INFO | Image stored successfully
+2026-05-11 12:18:52,439 | INFO | Embedding image 8
+2026-05-11 12:19:08,705 | INFO | Image stored successfully
+2026-05-11 12:19:08,705 | INFO | Embedding image 9
+2026-05-11 12:19:23,866 | INFO | Image stored successfully
+2026-05-11 12:19:23,866 | INFO | Processing audio...
+2026-05-11 12:19:23,868 | INFO | Processing videos...
+2026-05-11 12:19:23,869 | INFO | Starting ingestion for: Varanasi
+2026-05-11 12:19:25,530 | INFO | Processing text chunks...
+2026-05-11 12:19:44,996 | INFO | Text embeddings stored
+2026-05-11 12:19:44,998 | INFO | Processing images...
+2026-05-11 12:19:44,998 | INFO | Embedding image 0
+2026-05-11 12:19:58,281 | INFO | Image stored successfully
+2026-05-11 12:19:58,281 | INFO | Embedding image 1
+2026-05-11 12:20:11,529 | INFO | Image stored successfully
+2026-05-11 12:20:11,530 | INFO | Embedding image 2
+2026-05-11 12:20:23,917 | INFO | Image stored successfully
+2026-05-11 12:20:23,918 | INFO | Embedding image 3
+2026-05-11 12:20:39,450 | INFO | Image stored successfully
+2026-05-11 12:20:39,450 | INFO | Embedding image 4
+2026-05-11 12:20:54,773 | INFO | Image stored successfully
+2026-05-11 12:20:54,773 | INFO | Embedding image 5
+2026-05-11 12:21:08,284 | INFO | Image stored successfully
+2026-05-11 12:21:08,285 | INFO | Embedding image 6
+2026-05-11 12:21:23,768 | INFO | Image stored successfully
+2026-05-11 12:21:23,768 | INFO | Embedding image 7
+2026-05-11 12:21:24,297 | INFO | Embedding image 8
+2026-05-11 12:21:43,312 | INFO | Image stored successfully
+2026-05-11 12:21:43,313 | INFO | Embedding image 9
+2026-05-11 12:21:58,466 | INFO | Image stored successfully
+2026-05-11 12:21:58,468 | INFO | Processing audio...
+2026-05-11 12:21:58,469 | INFO | Processing videos...
+2026-05-11 12:21:58,472 | INFO | Starting ingestion for: Jaipur
+2026-05-11 12:21:59,769 | INFO | Processing text chunks...
+2026-05-11 12:22:09,752 | INFO | Text embeddings stored
+2026-05-11 12:22:09,753 | INFO | Processing images...
+2026-05-11 12:22:09,753 | INFO | Embedding image 0
+2026-05-11 12:22:23,466 | INFO | Image stored successfully
+2026-05-11 12:22:23,468 | INFO | Embedding image 1
+2026-05-11 12:22:35,541 | INFO | Image stored successfully
+2026-05-11 12:22:35,542 | INFO | Embedding image 2
+2026-05-11 12:22:49,421 | INFO | Image stored successfully
+2026-05-11 12:22:49,422 | INFO | Embedding image 3
+2026-05-11 12:23:02,430 | INFO | Image stored successfully
+2026-05-11 12:23:02,431 | INFO | Embedding image 4
+2026-05-11 12:23:16,854 | INFO | Image stored successfully
+2026-05-11 12:23:16,854 | INFO | Embedding image 5
+2026-05-11 12:23:30,700 | INFO | Image stored successfully
+2026-05-11 12:23:30,701 | INFO | Embedding image 6
+2026-05-11 12:23:45,185 | INFO | Image stored successfully
+2026-05-11 12:23:45,185 | INFO | Embedding image 7
+2026-05-11 12:24:01,666 | INFO | Image stored successfully
+2026-05-11 12:24:01,667 | INFO | Embedding image 8
+2026-05-11 12:24:17,622 | INFO | Image stored successfully
+2026-05-11 12:24:17,622 | INFO | Embedding image 9
+2026-05-11 12:24:31,344 | INFO | Image stored successfully
+2026-05-11 12:24:31,345 | INFO | Processing audio...
+2026-05-11 12:24:31,345 | INFO | Processing videos...
+2026-05-11 12:24:31,347 | INFO | Starting ingestion for: Tiger
+2026-05-11 12:24:32,834 | INFO | Processing text chunks...
+2026-05-11 12:24:53,000 | INFO | Text embeddings stored
+2026-05-11 12:24:53,000 | INFO | Processing images...
+2026-05-11 12:24:53,000 | INFO | Embedding image 0
+2026-05-11 12:25:08,091 | INFO | Image stored successfully
+2026-05-11 12:25:08,091 | INFO | Embedding image 1
+2026-05-11 12:25:20,962 | INFO | Image stored successfully
+2026-05-11 12:25:20,962 | INFO | Embedding image 2
+2026-05-11 12:25:34,287 | INFO | Image stored successfully
+2026-05-11 12:25:34,287 | INFO | Embedding image 3
+2026-05-11 12:25:47,043 | INFO | Image stored successfully
+2026-05-11 12:25:47,044 | INFO | Embedding image 4
+2026-05-11 12:25:59,554 | INFO | Image stored successfully
+2026-05-11 12:25:59,554 | INFO | Embedding image 5
+2026-05-11 12:26:13,043 | INFO | Image stored successfully
+2026-05-11 12:26:13,044 | INFO | Embedding image 6
+2026-05-11 12:26:25,237 | INFO | Image stored successfully
+2026-05-11 12:26:25,238 | INFO | Embedding image 7
+2026-05-11 12:26:38,339 | INFO | Image stored successfully
+2026-05-11 12:26:38,340 | INFO | Embedding image 8
+2026-05-11 12:26:52,489 | INFO | Image stored successfully
+2026-05-11 12:26:52,489 | INFO | Embedding image 9
+2026-05-11 12:27:06,056 | INFO | Image stored successfully
+2026-05-11 12:27:06,057 | INFO | Processing audio...
+2026-05-11 12:27:06,057 | INFO | Embedding audio 0
+2026-05-11 12:27:34,265 | INFO | Audio stored successfully
+2026-05-11 12:27:34,265 | INFO | Processing videos...
+2026-05-11 12:27:34,265 | INFO | Embedding video 0
+2026-05-11 12:28:09,897 | INFO | Video stored successfully
+2026-05-11 12:28:09,898 | INFO | Starting ingestion for: Elephant
+2026-05-11 12:28:11,281 | INFO | Processing text chunks...
+2026-05-11 12:28:23,599 | INFO | Text embeddings stored
+2026-05-11 12:28:23,600 | INFO | Processing images...
+2026-05-11 12:28:23,600 | INFO | Embedding image 0
+2026-05-11 12:28:36,351 | INFO | Image stored successfully
+2026-05-11 12:28:36,351 | INFO | Embedding image 1
+2026-05-11 12:28:48,329 | INFO | Image stored successfully
+2026-05-11 12:28:48,330 | INFO | Embedding image 2
+2026-05-11 12:29:00,680 | INFO | Image stored successfully
+2026-05-11 12:29:00,682 | INFO | Embedding image 3
+2026-05-11 12:29:13,966 | INFO | Image stored successfully
+2026-05-11 12:29:13,967 | INFO | Embedding image 4
+2026-05-11 12:29:25,044 | INFO | Image stored successfully
+2026-05-11 12:29:25,044 | INFO | Embedding image 5
+2026-05-11 12:29:36,591 | INFO | Image stored successfully
+2026-05-11 12:29:36,592 | INFO | Embedding image 6
+2026-05-11 12:29:47,422 | INFO | Image stored successfully
+2026-05-11 12:29:47,422 | INFO | Embedding image 7
+2026-05-11 12:30:00,295 | INFO | Image stored successfully
+2026-05-11 12:30:00,295 | INFO | Embedding image 8
+2026-05-11 12:30:13,288 | INFO | Image stored successfully
+2026-05-11 12:30:13,289 | INFO | Embedding image 9
+2026-05-11 12:30:24,079 | INFO | Image stored successfully
+2026-05-11 12:30:24,079 | INFO | Processing audio...
+2026-05-11 12:30:24,079 | INFO | Processing videos...
+2026-05-11 12:30:24,080 | INFO | Embedding video 0
+2026-05-11 12:31:33,067 | INFO | Video stored successfully
+2026-05-11 12:31:33,069 | INFO | Embedding video 1
+2026-05-11 12:32:03,255 | INFO | Video stored successfully
+2026-05-11 12:32:03,257 | INFO | Embedding video 2
+2026-05-11 12:32:35,244 | INFO | Video stored successfully
+2026-05-11 12:32:35,246 | INFO | Starting ingestion for: Lion
+2026-05-11 12:32:37,511 | INFO | Processing text chunks...
+2026-05-11 12:32:54,451 | INFO | Text embeddings stored
+2026-05-11 12:32:54,453 | INFO | Processing images...
+2026-05-11 12:32:54,454 | INFO | Embedding image 0
+2026-05-11 12:33:08,424 | INFO | Image stored successfully
+2026-05-11 12:33:08,425 | INFO | Embedding image 1
+2026-05-11 12:33:20,897 | INFO | Image stored successfully
+2026-05-11 12:33:20,898 | INFO | Embedding image 2
+2026-05-11 12:33:30,338 | INFO | Image stored successfully
+2026-05-11 12:33:30,340 | INFO | Embedding image 3
+2026-05-11 12:33:38,368 | INFO | Image stored successfully
+2026-05-11 12:33:38,368 | INFO | Embedding image 4
+2026-05-11 12:33:49,289 | INFO | Image stored successfully
+2026-05-11 12:33:49,290 | INFO | Embedding image 5
+2026-05-11 12:34:02,534 | INFO | Image stored successfully
+2026-05-11 12:34:02,536 | INFO | Embedding image 6
+2026-05-11 12:34:15,089 | INFO | Image stored successfully
+2026-05-11 12:34:15,090 | INFO | Embedding image 7
+2026-05-11 12:34:33,827 | INFO | Image stored successfully
+2026-05-11 12:34:33,829 | INFO | Embedding image 8
+2026-05-11 12:34:47,945 | INFO | Image stored successfully
+2026-05-11 12:34:47,945 | INFO | Embedding image 9
+2026-05-11 12:35:00,678 | INFO | Image stored successfully
+2026-05-11 12:35:00,679 | INFO | Processing audio...
+2026-05-11 12:35:00,679 | INFO | Embedding audio 0
+2026-05-11 12:35:20,235 | INFO | Audio stored successfully
+2026-05-11 12:35:20,235 | INFO | Processing videos...
+2026-05-11 12:35:20,235 | INFO | Embedding video 0
+2026-05-11 12:35:51,614 | INFO | Video stored successfully
+2026-05-11 12:35:51,615 | INFO | Embedding video 1
+2026-05-11 12:36:45,040 | INFO | Video stored successfully
+2026-05-11 12:36:45,041 | INFO | Starting ingestion for: Peacock
+2026-05-11 12:36:46,229 | INFO | Processing text chunks...
+2026-05-11 12:36:54,995 | INFO | Text embeddings stored
+2026-05-11 12:36:54,995 | INFO | Processing images...
+2026-05-11 12:36:54,996 | INFO | Embedding image 0
+2026-05-11 12:37:10,088 | INFO | Image stored successfully
+2026-05-11 12:37:10,089 | INFO | Embedding image 1
+2026-05-11 12:37:23,795 | INFO | Image stored successfully
+2026-05-11 12:37:23,798 | INFO | Embedding image 2
+2026-05-11 12:37:40,655 | INFO | Image stored successfully
+2026-05-11 12:37:40,656 | INFO | Embedding image 3
+2026-05-11 12:37:54,339 | INFO | Image stored successfully
+2026-05-11 12:37:54,341 | INFO | Embedding image 4
+2026-05-11 12:38:08,802 | INFO | Image stored successfully
+2026-05-11 12:38:08,803 | INFO | Embedding image 5
+2026-05-11 12:38:22,565 | INFO | Image stored successfully
+2026-05-11 12:38:22,565 | INFO | Embedding image 6
+2026-05-11 12:38:35,817 | INFO | Image stored successfully
+2026-05-11 12:38:35,819 | INFO | Embedding image 7
+2026-05-11 12:38:44,148 | INFO | Image stored successfully
+2026-05-11 12:38:44,149 | INFO | Embedding image 8
+2026-05-11 12:38:58,430 | INFO | Image stored successfully
+2026-05-11 12:38:58,431 | INFO | Embedding image 9
+2026-05-11 12:39:15,165 | INFO | Image stored successfully
+2026-05-11 12:39:15,165 | INFO | Processing audio...
+2026-05-11 12:39:15,165 | INFO | Embedding audio 0
+2026-05-11 12:39:31,951 | INFO | Audio stored successfully
+2026-05-11 12:39:31,952 | INFO | Processing videos...
+2026-05-11 12:39:31,952 | INFO | Embedding video 0
+2026-05-11 12:40:27,907 | INFO | Video stored successfully
+2026-05-11 12:40:27,907 | INFO | Embedding video 1
+2026-05-11 12:41:28,067 | INFO | Video stored successfully
+2026-05-11 12:41:28,068 | INFO | Starting ingestion for: Bengal tiger
+2026-05-11 12:41:29,030 | INFO | Processing text chunks...
+2026-05-11 12:41:35,694 | INFO | Text embeddings stored
+2026-05-11 12:41:35,694 | INFO | Processing images...
+2026-05-11 12:41:35,694 | INFO | Embedding image 0
+2026-05-11 12:41:48,708 | INFO | Image stored successfully
+2026-05-11 12:41:48,708 | INFO | Embedding image 1
+2026-05-11 12:42:01,304 | INFO | Image stored successfully
+2026-05-11 12:42:01,304 | INFO | Embedding image 2
+2026-05-11 12:42:16,682 | INFO | Image stored successfully
+2026-05-11 12:42:16,682 | INFO | Embedding image 3
+2026-05-11 12:42:33,919 | INFO | Image stored successfully
+2026-05-11 12:42:33,920 | INFO | Embedding image 4
+2026-05-11 12:42:48,397 | INFO | Image stored successfully
+2026-05-11 12:42:48,397 | INFO | Embedding image 5
+2026-05-11 12:43:01,280 | INFO | Image stored successfully
+2026-05-11 12:43:01,281 | INFO | Embedding image 6
+2026-05-11 12:43:14,371 | INFO | Image stored successfully
+2026-05-11 12:43:14,372 | INFO | Embedding image 7
+2026-05-11 12:43:29,922 | INFO | Image stored successfully
+2026-05-11 12:43:29,922 | INFO | Embedding image 8
+2026-05-11 12:43:45,231 | INFO | Image stored successfully
+2026-05-11 12:43:45,231 | INFO | Embedding image 9
+2026-05-11 12:43:58,399 | INFO | Image stored successfully
+2026-05-11 12:43:58,400 | INFO | Processing audio...
+2026-05-11 12:43:58,402 | INFO | Processing videos...
+2026-05-11 12:43:58,406 | INFO | Starting ingestion for: Indian elephant
+2026-05-11 12:43:59,091 | INFO | Processing text chunks...
+2026-05-11 12:44:03,076 | INFO | Text embeddings stored
+2026-05-11 12:44:03,077 | INFO | Processing images...
+2026-05-11 12:44:03,077 | INFO | Embedding image 0
+2026-05-11 12:44:17,195 | INFO | Image stored successfully
+2026-05-11 12:44:17,196 | INFO | Embedding image 1
+2026-05-11 12:44:29,825 | INFO | Image stored successfully
+2026-05-11 12:44:29,826 | INFO | Embedding image 2
+2026-05-11 12:44:44,724 | INFO | Image stored successfully
+2026-05-11 12:44:44,724 | INFO | Embedding image 3
+2026-05-11 12:44:58,371 | INFO | Image stored successfully
+2026-05-11 12:44:58,372 | INFO | Embedding image 4
+2026-05-11 12:45:13,262 | INFO | Image stored successfully
+2026-05-11 12:45:13,263 | INFO | Embedding image 5
+2026-05-11 12:45:29,175 | INFO | Image stored successfully
+2026-05-11 12:45:29,175 | INFO | Embedding image 6
+2026-05-11 12:45:42,400 | INFO | Image stored successfully
+2026-05-11 12:45:42,400 | INFO | Embedding image 7
+2026-05-11 12:45:54,447 | INFO | Image stored successfully
+2026-05-11 12:45:54,447 | INFO | Embedding image 8
+2026-05-11 12:46:09,893 | INFO | Image stored successfully
+2026-05-11 12:46:09,894 | INFO | Embedding image 9
+2026-05-11 12:46:22,929 | INFO | Image stored successfully
+2026-05-11 12:46:22,929 | INFO | Processing audio...
+2026-05-11 12:46:22,929 | INFO | Processing videos...
+2026-05-11 12:46:22,931 | INFO | Starting ingestion for: Artificial intelligence
+2026-05-11 12:46:24,933 | INFO | Processing text chunks...
+2026-05-11 12:46:36,765 | INFO | Text embeddings stored
+2026-05-11 12:46:36,765 | INFO | Processing images...
+2026-05-11 12:46:36,767 | INFO | Embedding image 0
+2026-05-11 12:46:46,957 | INFO | Image stored successfully
+2026-05-11 12:46:46,957 | INFO | Embedding image 1
+2026-05-11 12:47:01,724 | INFO | Image stored successfully
+2026-05-11 12:47:01,724 | INFO | Embedding image 2
+2026-05-11 12:47:14,298 | INFO | Image stored successfully
+2026-05-11 12:47:14,298 | INFO | Embedding image 3
+2026-05-11 12:47:28,438 | INFO | Image stored successfully
+2026-05-11 12:47:28,438 | INFO | Embedding image 4
+2026-05-11 12:47:42,818 | INFO | Image stored successfully
+2026-05-11 12:47:42,818 | INFO | Embedding image 5
+2026-05-11 12:47:57,986 | INFO | Image stored successfully
+2026-05-11 12:47:57,987 | INFO | Embedding image 6
+2026-05-11 12:48:10,852 | INFO | Image stored successfully
+2026-05-11 12:48:10,852 | INFO | Embedding image 7
+2026-05-11 12:48:22,317 | INFO | Image stored successfully
+2026-05-11 12:48:22,317 | INFO | Processing audio...
+2026-05-11 12:48:22,317 | INFO | Processing videos...
+2026-05-11 12:48:22,318 | INFO | Starting ingestion for: Machine learning
+2026-05-11 12:48:23,519 | INFO | Processing text chunks...
+2026-05-11 12:48:29,982 | INFO | Text embeddings stored
+2026-05-11 12:48:29,982 | INFO | Processing images...
+2026-05-11 12:48:29,982 | INFO | Embedding image 0
+2026-05-11 12:48:41,627 | INFO | Image stored successfully
+2026-05-11 12:48:41,627 | INFO | Embedding image 1
+2026-05-11 12:48:54,096 | INFO | Image stored successfully
+2026-05-11 12:48:54,097 | INFO | Embedding image 2
+2026-05-11 12:49:08,753 | INFO | Image stored successfully
+2026-05-11 12:49:08,753 | INFO | Embedding image 3
+2026-05-11 12:49:20,324 | INFO | Image stored successfully
+2026-05-11 12:49:20,324 | INFO | Embedding image 4
+2026-05-11 12:49:32,146 | INFO | Image stored successfully
+2026-05-11 12:49:32,147 | INFO | Processing audio...
+2026-05-11 12:49:32,147 | INFO | Processing videos...
+2026-05-11 12:49:32,148 | INFO | Starting ingestion for: Computer vision
+2026-05-11 12:49:32,868 | INFO | Processing text chunks...
+2026-05-11 12:49:35,488 | INFO | Text embeddings stored
+2026-05-11 12:49:35,488 | INFO | Processing images...
+2026-05-11 12:49:35,488 | INFO | Embedding image 0
+2026-05-11 12:49:46,787 | INFO | Image stored successfully
+2026-05-11 12:49:46,788 | INFO | Embedding image 1
+2026-05-11 12:50:02,625 | INFO | Image stored successfully
+2026-05-11 12:50:02,626 | INFO | Embedding image 2
+2026-05-11 12:50:17,237 | INFO | Image stored successfully
+2026-05-11 12:50:17,238 | INFO | Embedding image 3
+2026-05-11 12:50:32,567 | INFO | Image stored successfully
+2026-05-11 12:50:32,569 | INFO | Embedding image 4
+2026-05-11 12:50:47,474 | INFO | Image stored successfully
+2026-05-11 12:50:47,475 | INFO | Embedding image 5
+2026-05-11 12:51:02,737 | INFO | Image stored successfully
+2026-05-11 12:51:02,737 | INFO | Embedding image 6
+2026-05-11 12:51:14,958 | INFO | Image stored successfully
+2026-05-11 12:51:14,958 | INFO | Processing audio...
+2026-05-11 12:51:14,958 | INFO | Processing videos...
+2026-05-11 12:51:14,958 | INFO | Embedding video 0
+2026-05-11 12:52:20,785 | INFO | Video stored successfully
+2026-05-11 12:52:20,786 | INFO | Starting ingestion for: Robotics
+2026-05-11 12:52:21,728 | INFO | Processing text chunks...
+2026-05-11 12:52:23,984 | INFO | Text embeddings stored
+2026-05-11 12:52:23,984 | INFO | Processing images...
+2026-05-11 12:52:23,985 | INFO | Embedding image 0
+2026-05-11 12:52:39,876 | INFO | Image stored successfully
+2026-05-11 12:52:39,876 | INFO | Embedding image 1
+2026-05-11 12:52:53,382 | INFO | Image stored successfully
+2026-05-11 12:52:53,382 | INFO | Embedding image 2
+2026-05-11 12:53:07,131 | INFO | Image stored successfully
+2026-05-11 12:53:07,131 | INFO | Embedding image 3
+2026-05-11 12:53:20,925 | INFO | Image stored successfully
+2026-05-11 12:53:20,925 | INFO | Embedding image 4
+2026-05-11 12:53:35,307 | INFO | Image stored successfully
+2026-05-11 12:53:35,307 | INFO | Embedding image 5
+2026-05-11 12:53:52,785 | INFO | Image stored successfully
+2026-05-11 12:53:52,785 | INFO | Embedding image 6
+2026-05-11 12:54:07,762 | INFO | Image stored successfully
+2026-05-11 12:54:07,764 | INFO | Embedding image 7
+2026-05-11 12:54:20,806 | INFO | Image stored successfully
+2026-05-11 12:54:20,806 | INFO | Embedding image 8
+2026-05-11 12:54:35,317 | INFO | Image stored successfully
+2026-05-11 12:54:35,317 | INFO | Embedding image 9
+2026-05-11 12:54:50,632 | INFO | Image stored successfully
+2026-05-11 12:54:50,632 | INFO | Processing audio...
+2026-05-11 12:54:50,632 | INFO | Processing videos...
+2026-05-11 12:54:50,633 | INFO | Starting ingestion for: Solar System
+2026-05-11 12:54:52,067 | INFO | Processing text chunks...
+2026-05-11 12:54:59,315 | INFO | Text embeddings stored
+2026-05-11 12:54:59,315 | INFO | Processing images...
+2026-05-11 12:54:59,315 | INFO | Embedding image 0
+2026-05-11 12:55:14,661 | INFO | Image stored successfully
+2026-05-11 12:55:14,661 | INFO | Embedding image 1
+2026-05-11 12:55:27,442 | INFO | Image stored successfully
+2026-05-11 12:55:27,442 | INFO | Embedding image 2
+2026-05-11 12:55:42,979 | INFO | Image stored successfully
+2026-05-11 12:55:42,980 | INFO | Embedding image 3
+2026-05-11 12:55:59,413 | INFO | Image stored successfully
+2026-05-11 12:55:59,413 | INFO | Embedding image 4
+2026-05-11 12:56:16,038 | INFO | Image stored successfully
+2026-05-11 12:56:16,038 | INFO | Embedding image 5
+2026-05-11 12:56:39,231 | INFO | Image stored successfully
+2026-05-11 12:56:39,231 | INFO | Embedding image 6
+2026-05-11 12:56:49,695 | INFO | Image stored successfully
+2026-05-11 12:56:49,695 | INFO | Embedding image 7
+2026-05-11 12:57:02,498 | INFO | Image stored successfully
+2026-05-11 12:57:02,498 | INFO | Embedding image 8
+2026-05-11 12:57:16,882 | INFO | Image stored successfully
+2026-05-11 12:57:16,882 | INFO | Embedding image 9
+2026-05-11 12:57:30,893 | INFO | Image stored successfully
+2026-05-11 12:57:30,895 | INFO | Processing audio...
+2026-05-11 12:57:30,895 | INFO | Embedding audio 0
+2026-05-11 13:05:07,987 | INFO | Audio stored successfully
+2026-05-11 13:05:07,987 | INFO | Processing videos...
+2026-05-11 13:05:07,988 | INFO | Starting ingestion for: Moon
+2026-05-11 13:05:09,364 | INFO | Processing text chunks...
+2026-05-11 13:05:31,193 | INFO | Text embeddings stored
+2026-05-11 13:05:31,195 | INFO | Processing images...
+2026-05-11 13:05:31,195 | INFO | Embedding image 0
+2026-05-11 13:05:47,311 | INFO | Image stored successfully
+2026-05-11 13:05:47,312 | INFO | Embedding image 1
+2026-05-11 13:06:03,218 | INFO | Image stored successfully
+2026-05-11 13:06:03,218 | INFO | Embedding image 2
+2026-05-11 13:06:18,606 | INFO | Image stored successfully
+2026-05-11 13:06:18,606 | INFO | Embedding image 3
+2026-05-11 13:06:33,715 | INFO | Image stored successfully
+2026-05-11 13:06:33,716 | INFO | Embedding image 4
+2026-05-11 13:06:48,048 | INFO | Image stored successfully
+2026-05-11 13:06:48,049 | INFO | Embedding image 5
+2026-05-11 13:07:02,619 | INFO | Image stored successfully
+2026-05-11 13:07:02,619 | INFO | Embedding image 6
+2026-05-11 13:07:19,253 | INFO | Image stored successfully
+2026-05-11 13:07:19,253 | INFO | Embedding image 7
+2026-05-11 13:07:33,833 | INFO | Image stored successfully
+2026-05-11 13:07:33,833 | INFO | Embedding image 8
+2026-05-11 13:07:47,925 | INFO | Image stored successfully
+2026-05-11 13:07:47,926 | INFO | Embedding image 9
+2026-05-11 13:07:58,854 | INFO | Image stored successfully
+2026-05-11 13:07:58,854 | INFO | Processing audio...
+2026-05-11 13:07:58,855 | INFO | Processing videos...
+2026-05-11 13:07:58,855 | INFO | Embedding video 0
+2026-05-11 13:08:56,595 | INFO | Video stored successfully
+2026-05-11 13:08:56,595 | INFO | Starting ingestion for: Mars
+2026-05-11 13:09:01,700 | INFO | Processing text chunks...
+2026-05-11 13:09:22,091 | INFO | Text embeddings stored
+2026-05-11 13:09:22,092 | INFO | Processing images...
+2026-05-11 13:09:22,092 | INFO | Embedding image 0
+2026-05-11 13:09:35,903 | INFO | Image stored successfully
+2026-05-11 13:09:35,904 | INFO | Embedding image 1
+2026-05-11 13:09:49,804 | INFO | Image stored successfully
+2026-05-11 13:09:49,806 | INFO | Embedding image 2
+2026-05-11 13:10:05,256 | INFO | Image stored successfully
+2026-05-11 13:10:05,256 | INFO | Embedding image 3
+2026-05-11 13:10:20,675 | INFO | Image stored successfully
+2026-05-11 13:10:20,675 | INFO | Embedding image 4
+2026-05-11 13:10:36,444 | INFO | Image stored successfully
+2026-05-11 13:10:36,445 | INFO | Embedding image 5
+2026-05-11 13:10:48,562 | INFO | Image stored successfully
+2026-05-11 13:10:48,563 | INFO | Embedding image 6
+2026-05-11 13:11:01,423 | INFO | Image stored successfully
+2026-05-11 13:11:01,423 | INFO | Embedding image 7
+2026-05-11 13:11:13,642 | INFO | Image stored successfully
+2026-05-11 13:11:13,642 | INFO | Embedding image 8
+2026-05-11 13:11:29,392 | INFO | Image stored successfully
+2026-05-11 13:11:29,392 | INFO | Embedding image 9
+2026-05-11 13:11:41,883 | INFO | Image stored successfully
+2026-05-11 13:11:41,884 | INFO | Processing audio...
+2026-05-11 13:11:41,884 | INFO | Embedding audio 0
+2026-05-11 13:12:25,776 | INFO | Audio stored successfully
+2026-05-11 13:12:25,776 | INFO | Processing videos...
+2026-05-11 13:12:25,776 | INFO | Embedding video 0
+2026-05-11 13:13:50,006 | INFO | Video stored successfully
+2026-05-11 13:13:50,007 | INFO | Embedding video 1
+2026-05-11 13:14:23,087 | INFO | Video stored successfully
+2026-05-11 13:14:23,088 | INFO | Embedding video 2
+2026-05-11 13:15:07,318 | INFO | Video stored successfully
+2026-05-11 13:15:07,319 | INFO | Starting ingestion for: Black hole
+2026-05-11 13:15:09,140 | INFO | Processing text chunks...
+2026-05-11 13:15:28,786 | INFO | Text embeddings stored
+2026-05-11 13:15:28,787 | INFO | Processing images...
+2026-05-11 13:15:28,787 | INFO | Embedding image 0
+2026-05-11 13:15:40,417 | INFO | Image stored successfully
+2026-05-11 13:15:40,418 | INFO | Embedding image 1
+2026-05-11 13:15:53,048 | INFO | Image stored successfully
+2026-05-11 13:15:53,048 | INFO | Embedding image 2
+2026-05-11 13:16:05,666 | INFO | Image stored successfully
+2026-05-11 13:16:05,667 | INFO | Embedding image 3
+2026-05-11 13:16:16,682 | INFO | Image stored successfully
+2026-05-11 13:16:16,683 | INFO | Embedding image 4
+2026-05-11 13:16:30,483 | INFO | Image stored successfully
+2026-05-11 13:16:30,483 | INFO | Embedding image 5
+2026-05-11 13:16:44,015 | INFO | Image stored successfully
+2026-05-11 13:16:44,017 | INFO | Embedding image 6
+2026-05-11 13:16:58,882 | INFO | Image stored successfully
+2026-05-11 13:16:58,883 | INFO | Embedding image 7
+2026-05-11 13:17:10,250 | INFO | Image stored successfully
+2026-05-11 13:17:10,251 | INFO | Embedding image 8
+2026-05-11 13:17:22,001 | INFO | Image stored successfully
+2026-05-11 13:17:22,001 | INFO | Embedding image 9
+2026-05-11 13:17:36,124 | INFO | Image stored successfully
+2026-05-11 13:17:36,125 | INFO | Processing audio...
+2026-05-11 13:17:36,125 | INFO | Processing videos...
+2026-05-11 13:17:36,125 | INFO | Embedding video 0
+2026-05-11 13:18:04,937 | INFO | Video stored successfully
+2026-05-11 13:18:04,937 | INFO | Embedding video 1
+2026-05-11 13:18:35,045 | INFO | Video stored successfully
+2026-05-11 13:18:35,046 | INFO | Embedding video 2
+2026-05-11 13:19:01,697 | INFO | Video stored successfully
+2026-05-11 13:19:01,698 | INFO | Embedding video 3
+2026-05-11 13:19:46,517 | INFO | Video stored successfully
+2026-05-11 13:19:46,517 | INFO | Embedding video 4
+2026-05-11 13:20:17,462 | INFO | Video stored successfully
+2026-05-11 13:20:17,463 | INFO | Starting ingestion for: Earth
+2026-05-11 13:20:19,119 | INFO | Processing text chunks...
+2026-05-11 13:20:29,289 | INFO | Text embeddings stored
+2026-05-11 13:20:29,289 | INFO | Processing images...
+2026-05-11 13:20:29,289 | INFO | Embedding image 0
+2026-05-11 13:20:45,946 | INFO | Image stored successfully
+2026-05-11 13:20:45,947 | INFO | Embedding image 1
+2026-05-11 13:20:57,925 | INFO | Image stored successfully
+2026-05-11 13:20:57,926 | INFO | Embedding image 2
+2026-05-11 13:21:09,083 | INFO | Image stored successfully
+2026-05-11 13:21:09,083 | INFO | Embedding image 3
+2026-05-11 13:21:20,274 | INFO | Image stored successfully
+2026-05-11 13:21:20,274 | INFO | Embedding image 4
+2026-05-11 13:21:35,304 | INFO | Image stored successfully
+2026-05-11 13:21:35,304 | INFO | Embedding image 5
+2026-05-11 13:21:48,844 | INFO | Image stored successfully
+2026-05-11 13:21:48,844 | INFO | Embedding image 6
+2026-05-11 13:22:01,338 | INFO | Image stored successfully
+2026-05-11 13:22:01,338 | INFO | Embedding image 7
+2026-05-11 13:22:15,389 | INFO | Image stored successfully
+2026-05-11 13:22:15,390 | INFO | Embedding image 8
+2026-05-11 13:22:26,864 | INFO | Image stored successfully
+2026-05-11 13:22:26,864 | INFO | Embedding image 9
+2026-05-11 13:22:40,737 | INFO | Image stored successfully
+2026-05-11 13:22:40,738 | INFO | Processing audio...
+2026-05-11 13:22:40,738 | INFO | Embedding audio 0
+2026-05-11 13:28:08,391 | INFO | Audio stored successfully
+2026-05-11 13:28:08,392 | INFO | Processing videos...
+2026-05-11 14:02:28,191 | INFO | Running query: give me about tiger
+2026-05-11 14:02:28,727 | INFO | Best similarity distance: 0.7783331274986267
+2026-05-11 14:02:28,747 | INFO | Text distance: 0.7783331274986267 | title: Tiger
+2026-05-11 14:02:28,748 | INFO | Text distance: 0.8171969652175903 | title: Tiger
+2026-05-11 14:02:28,748 | INFO | Text distance: 0.8265175819396973 | title: Tiger
+2026-05-11 14:02:28,748 | INFO | Text distance: 0.8282957673072815 | title: Bengal tiger
+2026-05-11 14:02:28,748 | INFO | Text distance: 0.8319931030273438 | title: Bengal tiger
+2026-05-11 14:03:13,267 | INFO | Running query: images of kerala
+2026-05-11 14:03:13,292 | INFO | Best similarity distance: 0.838248610496521
+2026-05-11 14:03:13,387 | INFO | Image distance: 0.8091936707496643 | title: Tamil Nadu
+2026-05-11 14:03:13,387 | INFO | Image distance: 0.8468446731567383 | title: Hampi
+2026-05-11 14:03:13,387 | INFO | Image distance: 0.9237613677978516 | title: Culture of India
+2026-05-11 14:03:13,388 | INFO | Image distance: 0.9534834027290344 | title: Hampi
+2026-05-11 14:03:13,388 | INFO | Image distance: 0.9809499382972717 | title: Bengal tiger
+2026-05-11 14:03:13,388 | INFO | No relevant image found
+2026-05-11 14:03:39,885 | INFO | Running query: audio of indian culture
+2026-05-11 14:03:39,911 | INFO | Best similarity distance: 0.9096466302871704
+2026-05-11 14:03:39,976 | INFO | Audio distance: 0.8273556232452393 | title: Culture of India
+2026-05-11 14:03:39,976 | INFO | Audio distance: 1.0677160024642944 | title: Culture of India
+2026-05-11 14:03:39,976 | INFO | Audio distance: 1.2910492420196533 | title: Earth
+2026-05-11 14:03:39,977 | INFO | Audio distance: 1.3004502058029175 | title: Tiger
+2026-05-11 14:03:39,977 | INFO | Audio distance: 1.3088905811309814 | title: Mars
+2026-05-11 14:03:39,977 | INFO | No relevant audio found
+2026-05-11 14:03:50,526 | INFO | Running query: videos of taj mahal
+2026-05-11 14:03:50,569 | INFO | Best similarity distance: 0.6829059720039368
+2026-05-11 14:03:50,689 | INFO | Video distance: 0.4588690400123596 | title: Taj Mahal
+2026-05-11 14:03:50,689 | INFO | Video distance: 1.3233228921890259 | title: Computer vision
+2026-05-11 14:03:50,689 | INFO | Video distance: 1.421298861503601 | title: Black hole
+2026-05-11 14:03:50,691 | INFO | Video distance: 1.4822648763656616 | title: Black hole
+2026-05-11 14:03:50,691 | INFO | Video distance: 1.5122716426849365 | title: Black hole
+2026-05-11 14:04:35,796 | INFO | Running query: audio of culture of  indian 
+2026-05-11 14:04:35,818 | INFO | Best similarity distance: 0.9301976561546326
+2026-05-11 14:04:35,840 | INFO | Audio distance: 0.875375509262085 | title: Culture of India
+2026-05-11 14:04:35,840 | INFO | Audio distance: 1.0962929725646973 | title: Culture of India
+2026-05-11 14:04:35,841 | INFO | Audio distance: 1.3219516277313232 | title: Tiger
+2026-05-11 14:04:35,841 | INFO | Audio distance: 1.3360873460769653 | title: Earth
+2026-05-11 14:04:35,841 | INFO | Audio distance: 1.3380253314971924 | title: Mars
+2026-05-11 14:04:35,841 | INFO | No relevant audio found
+2026-05-11 14:04:39,003 | INFO | Running query: audio of culture of  indian 
+2026-05-11 14:04:39,030 | INFO | Best similarity distance: 0.9301976561546326
+2026-05-11 14:04:39,044 | INFO | Audio distance: 0.875375509262085 | title: Culture of India
+2026-05-11 14:04:39,045 | INFO | Audio distance: 1.0962929725646973 | title: Culture of India
+2026-05-11 14:04:39,045 | INFO | Audio distance: 1.3219516277313232 | title: Tiger
+2026-05-11 14:04:39,045 | INFO | Audio distance: 1.3360873460769653 | title: Earth
+2026-05-11 14:04:39,045 | INFO | Audio distance: 1.3380253314971924 | title: Mars
+2026-05-11 14:04:39,045 | INFO | No relevant audio found
+2026-05-11 14:04:54,648 | INFO | Running query: audio of culture of  india
+2026-05-11 14:04:54,672 | INFO | Best similarity distance: 0.9275357127189636
+2026-05-11 14:04:54,693 | INFO | Audio distance: 0.9136289954185486 | title: Culture of India
+2026-05-11 14:04:54,694 | INFO | Audio distance: 1.1487586498260498 | title: Culture of India
+2026-05-11 14:04:54,694 | INFO | Audio distance: 1.3189518451690674 | title: Solar System
+2026-05-11 14:04:54,694 | INFO | Audio distance: 1.3244394063949585 | title: Earth
+2026-05-11 14:04:54,694 | INFO | Audio distance: 1.3627064228057861 | title: Tiger
+2026-05-11 14:05:36,930 | INFO | Running query: videos of culture of india
+2026-05-11 14:05:36,952 | INFO | Best similarity distance: 0.8240753412246704
+2026-05-11 14:05:36,970 | INFO | Video distance: 1.0155304670333862 | title: Taj Mahal
+2026-05-11 14:05:36,970 | INFO | Video distance: 1.4045464992523193 | title: Culture of India
+2026-05-11 14:05:36,970 | INFO | Video distance: 1.4540812969207764 | title: Computer vision
+2026-05-11 14:05:36,970 | INFO | Video distance: 1.5484123229980469 | title: Elephant
+2026-05-11 14:05:36,971 | INFO | Video distance: 1.5695996284484863 | title: Elephant
+2026-05-11 14:06:02,745 | INFO | Running query: images of Varanasi
+2026-05-11 14:06:02,773 | INFO | Best similarity distance: 0.9185968637466431
+2026-05-11 14:06:02,794 | INFO | Image distance: 0.9849328994750977 | title: Varanasi
+2026-05-11 14:06:02,795 | INFO | Image distance: 1.028225064277649 | title: Culture of India
+2026-05-11 14:06:02,795 | INFO | Image distance: 1.0534807443618774 | title: Varanasi
+2026-05-11 14:06:02,795 | INFO | Image distance: 1.137384057044983 | title: Kerala
+2026-05-11 14:06:02,795 | INFO | Image distance: 1.1491386890411377 | title: Hampi
+2026-05-11 14:06:37,234 | INFO | Running query: images of hampi
+2026-05-11 14:06:37,260 | INFO | Best similarity distance: 0.7702677249908447
+2026-05-11 14:06:37,278 | INFO | Image distance: 1.0796035528182983 | title: Hampi
+2026-05-11 14:06:37,278 | INFO | Image distance: 1.1078507900238037 | title: Tiger
+2026-05-11 14:06:37,278 | INFO | Image distance: 1.1295244693756104 | title: Moon
+2026-05-11 14:06:37,279 | INFO | Image distance: 1.1467317342758179 | title: Moon
+2026-05-11 14:06:37,279 | INFO | Image distance: 1.1686711311340332 | title: Machine learning
+2026-05-11 14:07:05,850 | INFO | Running query: audio of Jaipur
+2026-05-11 14:07:05,889 | INFO | Best similarity distance: 0.9611419439315796
+2026-05-11 14:07:05,911 | INFO | Audio distance: 1.0607764720916748 | title: Culture of India
+2026-05-11 14:07:05,911 | INFO | Audio distance: 1.1203341484069824 | title: Culture of India
+2026-05-11 14:07:05,911 | INFO | Audio distance: 1.2425079345703125 | title: Tiger
+2026-05-11 14:07:05,912 | INFO | Audio distance: 1.2531355619430542 | title: Mars
+2026-05-11 14:07:05,912 | INFO | Audio distance: 1.2840523719787598 | title: Solar System
+2026-05-11 14:07:05,912 | INFO | No relevant audio found
+2026-05-11 14:07:22,150 | INFO | Running query: audio of mars
+2026-05-11 14:07:22,176 | INFO | Best similarity distance: 0.9100013375282288
+2026-05-11 14:07:22,196 | INFO | Audio distance: 0.8727357983589172 | title: Earth
+2026-05-11 14:07:22,196 | INFO | Audio distance: 0.9099828600883484 | title: Solar System
+2026-05-11 14:07:22,196 | INFO | Audio distance: 1.207139253616333 | title: Culture of India
+2026-05-11 14:07:22,197 | INFO | Audio distance: 1.241976022720337 | title: Peafowl
+2026-05-11 14:07:22,197 | INFO | Audio distance: 1.2849457263946533 | title: Mars
+2026-05-11 14:07:22,197 | INFO | No relevant audio found
+2026-05-11 14:07:54,730 | INFO | Running query: images of machine learning
+2026-05-11 14:07:54,753 | INFO | Best similarity distance: 0.8672645092010498
+2026-05-11 14:07:54,773 | INFO | Image distance: 1.0939061641693115 | title: Artificial intelligence
+2026-05-11 14:07:54,773 | INFO | Image distance: 1.1855876445770264 | title: Machine learning
+2026-05-11 14:07:54,773 | INFO | Image distance: 1.3566912412643433 | title: Computer vision
+2026-05-11 14:07:54,774 | INFO | Image distance: 1.4040522575378418 | title: Machine learning
+2026-05-11 14:07:54,774 | INFO | Image distance: 1.4090275764465332 | title: Machine learning
+2026-05-11 17:02:53,097 | INFO | Running query: give me about tigers
+2026-05-11 17:02:53,986 | INFO | Best similarity distance: 0.6818292140960693
+2026-05-11 17:02:54,034 | INFO | Text distance: 0.6818292140960693 | title: Tiger
+2026-05-11 17:02:54,035 | INFO | Text distance: 0.6884611248970032 | title: Tiger
+2026-05-11 17:02:54,036 | INFO | Text distance: 0.7164708971977234 | title: Tiger
+2026-05-11 17:02:54,036 | INFO | Text distance: 0.7256346940994263 | title: Tiger
+2026-05-11 17:02:54,036 | INFO | Text distance: 0.7326641082763672 | title: Bengal tiger
+2026-05-11 17:03:30,239 | INFO | Running query: give me about tigers
+2026-05-11 17:03:30,275 | INFO | Best similarity distance: 0.6818292140960693
+2026-05-11 17:03:30,318 | INFO | Text distance: 0.6818292140960693 | title: Tiger
+2026-05-11 17:03:30,318 | INFO | Text distance: 0.6884611248970032 | title: Tiger
+2026-05-11 17:03:30,319 | INFO | Text distance: 0.7164708971977234 | title: Tiger
+2026-05-11 17:03:30,319 | INFO | Text distance: 0.7256346940994263 | title: Tiger
+2026-05-11 17:03:30,320 | INFO | Text distance: 0.7326641082763672 | title: Bengal tiger
+2026-05-11 17:03:36,498 | INFO | Running query: give me about tiger
+2026-05-11 17:03:36,541 | INFO | Best similarity distance: 0.7783331274986267
+2026-05-11 17:03:36,567 | INFO | Text distance: 0.7783331274986267 | title: Tiger
+2026-05-11 17:03:36,568 | INFO | Text distance: 0.8171969652175903 | title: Tiger
+2026-05-11 17:03:36,568 | INFO | Text distance: 0.8265175819396973 | title: Tiger
+2026-05-11 17:03:36,568 | INFO | Text distance: 0.8282957673072815 | title: Bengal tiger
+2026-05-11 17:03:36,568 | INFO | Text distance: 0.8319931030273438 | title: Bengal tiger
+2026-05-11 17:04:07,984 | INFO | Running query: images of  tiger
+2026-05-11 17:04:08,028 | INFO | Best similarity distance: 0.8142666816711426
+2026-05-11 17:04:08,129 | INFO | Image distance: 0.5227994918823242 | title: Bengal tiger
+2026-05-11 17:04:08,130 | INFO | Image distance: 0.5235694646835327 | title: Tiger
+2026-05-11 17:04:08,131 | INFO | Image distance: 0.588398277759552 | title: Tiger
+2026-05-11 17:04:08,131 | INFO | Image distance: 0.5914289951324463 | title: Bengal tiger
+2026-05-11 17:04:08,131 | INFO | Image distance: 0.5923163294792175 | title: Bengal tiger
+2026-05-11 17:04:32,612 | INFO | Running query: videos of  tiger
+2026-05-11 17:04:32,726 | INFO | Best similarity distance: 0.8401743173599243
+2026-05-11 17:04:32,903 | INFO | Video distance: 1.013318419456482 | title: Lion
+2026-05-11 17:04:32,905 | INFO | Video distance: 1.1362003087997437 | title: Tiger
+2026-05-11 17:04:32,905 | INFO | Video distance: 1.2487949132919312 | title: Lion
+2026-05-11 17:04:32,906 | INFO | Video distance: 1.3331586122512817 | title: Elephant
+2026-05-11 17:04:32,906 | INFO | Video distance: 1.4211931228637695 | title: Elephant
+2026-05-11 17:04:42,935 | INFO | Running query: images  of  tiger
+2026-05-11 17:04:43,003 | INFO | Best similarity distance: 0.8142666816711426
+2026-05-11 17:04:43,075 | INFO | Image distance: 0.5227994918823242 | title: Bengal tiger
+2026-05-11 17:04:43,075 | INFO | Image distance: 0.5235694646835327 | title: Tiger
+2026-05-11 17:04:43,076 | INFO | Image distance: 0.588398277759552 | title: Tiger
+2026-05-11 17:04:43,078 | INFO | Image distance: 0.5914289951324463 | title: Bengal tiger
+2026-05-11 17:04:43,079 | INFO | Image distance: 0.5923163294792175 | title: Bengal tiger
+2026-05-11 17:25:04,442 | INFO | Running query: give me about humans
+2026-05-11 17:25:04,519 | INFO | Best similarity distance: 1.1501418352127075
+2026-05-11 17:25:04,522 | INFO | Triggering cold-start ingestion...
+2026-05-11 17:25:04,524 | INFO | Cold-start topic: Humans
+2026-05-11 17:25:04,526 | INFO | Starting ingestion for: Humans
+2026-05-11 17:25:07,123 | INFO | Processing text chunks...
+2026-05-11 17:25:19,662 | INFO | Text embeddings stored
+2026-05-11 17:25:19,663 | INFO | Processing images...
+2026-05-11 17:25:19,664 | INFO | Embedding image 0
+2026-05-11 17:25:39,959 | INFO | Image stored successfully
+2026-05-11 17:25:39,959 | INFO | Embedding image 1
+2026-05-11 17:25:58,879 | INFO | Image stored successfully
+2026-05-11 17:25:58,880 | INFO | Embedding image 2
+2026-05-11 17:26:14,133 | INFO | Image stored successfully
+2026-05-11 17:26:14,133 | INFO | Embedding image 3
+2026-05-11 17:26:33,555 | INFO | Image stored successfully
+2026-05-11 17:26:33,555 | INFO | Embedding image 4
+2026-05-11 17:26:49,348 | INFO | Image stored successfully
+2026-05-11 17:26:49,348 | INFO | Embedding image 5
+2026-05-11 17:27:03,607 | INFO | Image stored successfully
+2026-05-11 17:27:03,607 | INFO | Embedding image 6
+2026-05-11 17:27:22,251 | INFO | Image stored successfully
+2026-05-11 17:27:22,251 | INFO | Embedding image 7
+2026-05-11 17:27:43,190 | INFO | Image stored successfully
+2026-05-11 17:27:43,191 | INFO | Embedding image 8
+2026-05-11 17:27:58,691 | INFO | Image stored successfully
+2026-05-11 17:27:58,691 | INFO | Embedding image 9
+2026-05-11 17:28:11,163 | INFO | Image stored successfully
+2026-05-11 17:28:11,163 | INFO | Processing audio...
+2026-05-11 17:28:11,163 | INFO | Embedding audio 0
+2026-05-11 17:28:30,651 | INFO | Audio stored successfully
+2026-05-11 17:28:30,652 | INFO | Embedding audio 1
